@@ -21,7 +21,7 @@ export default function PixelatedImage({ src, pixelFactor = 25 }: PixelatedImage
         ctx.imageSmoothingEnabled = false;
 
         const img = new Image();
-        img.crossOrigin = 'Anonymous';
+        img.crossOrigin = 'anonymous';
         img.src = src;
 
         img.onload = () => {

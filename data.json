@@ -1,0 +1,4858 @@
+[
+    {
+        "song": "Respect",
+        "song_id": "7s25THrKz86DM225dOYwnr",
+        "album": "I Never Loved a Man the Way I Love You",
+        "artists": [
+            "Aretha Franklin"
+        ],
+        "artists_id": [
+            "7nwUJBm0HE4ZxD3f5cy5ok"
+        ],
+        "release_date": "1967-03-10"
+    },
+    {
+        "song": "Fight The Power",
+        "song_id": "1yo16b3u0lptm6Cs7lx4AD",
+        "album": "Fear Of A Black Planet",
+        "artists": [
+            "Public Enemy"
+        ],
+        "artists_id": [
+            "6Mo9PoU6svvhgEum7wh2Nd"
+        ],
+        "release_date": "1990-04-10"
+    },
+    {
+        "song": "A Change Is Gonna Come",
+        "song_id": "0RFKuagqUgR4X8C1QneCCq",
+        "album": "Ain't That Good News (Remastered)",
+        "artists": [
+            "Sam Cooke"
+        ],
+        "artists_id": [
+            "6hnWRPzGGKiapVX1UCdEAC"
+        ],
+        "release_date": "1964-03-01"
+    },
+    {
+        "song": "Like a Rolling Stone",
+        "song_id": "3AhXZa8sUQht0UEdBJgpGc",
+        "album": "Highway 61 Revisited",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1965-08-30"
+    },
+    {
+        "song": "Smells Like Teen Spirit",
+        "song_id": "1f3yAtsJtY87CTmM8RLnxf",
+        "album": "Nevermind (Deluxe Edition)",
+        "artists": [
+            "Nirvana"
+        ],
+        "artists_id": [
+            "6olE6TJLqED3rqDCT0FyPh"
+        ],
+        "release_date": "1991-09-26"
+    },
+    {
+        "song": "What's Going On",
+        "song_id": "7av4raprzW2bWdjyAaH3hz",
+        "album": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "artists": [
+            "Marvin Gaye"
+        ],
+        "artists_id": [
+            "3koiLjNrgRTNbOwViDipeA"
+        ],
+        "release_date": "1971-05-21"
+    },
+    {
+        "song": "Strawberry Fields Forever - Remastered",
+        "song_id": "5EuraV2jbqB15ihd3d2Hex",
+        "album": "Magical Mystery Tour (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1967-11-27"
+    },
+    {
+        "song": "Get Ur Freak On",
+        "song_id": "6zsk6uF3MxfIeHPlubKBvR",
+        "album": "Miss E... So Addictive",
+        "artists": [
+            "Missy Elliott"
+        ],
+        "artists_id": [
+            "2wIVse2owClT7go1WT98tk"
+        ],
+        "release_date": "2001-05-14"
+    },
+    {
+        "song": "Dreams - 2004 Remaster",
+        "song_id": "0ofHAoxe9vBkTCp2UQIavz",
+        "album": "Rumours (Super Deluxe)",
+        "artists": [
+            "Fleetwood Mac"
+        ],
+        "artists_id": [
+            "08GQAI4eElDnROBrJRGE0X"
+        ],
+        "release_date": "1977-02-04"
+    },
+    {
+        "song": "Hey Ya!",
+        "song_id": "2PpruBYCo4H7WOBJ7Q2EwM",
+        "album": "Speakerboxxx/The Love Below",
+        "artists": [
+            "Outkast"
+        ],
+        "artists_id": [
+            "1G9G7WwrXka3Z1r7aIDjI7"
+        ],
+        "release_date": "2003"
+    },
+    {
+        "song": "God Only Knows - Mono",
+        "song_id": "6iGU74CwXuT4XVepjc9Emf",
+        "album": "Pet Sounds (Original Mono & Stereo Mix)",
+        "artists": [
+            "The Beach Boys"
+        ],
+        "artists_id": [
+            "3oDbviiivRWhXwIE8hxkVV"
+        ],
+        "release_date": "1966-06-16"
+    },
+    {
+        "song": "Superstition - Single Version",
+        "song_id": "1h2xVEoJORqrg71HocgqXd",
+        "album": "The Definitive Collection",
+        "artists": [
+            "Stevie Wonder"
+        ],
+        "artists_id": [
+            "7guDJrEfX3qb6FEbdPA5qi"
+        ],
+        "release_date": "2002-10-29"
+    },
+    {
+        "song": "Gimme Shelter",
+        "song_id": "1dv3ePjze9tPq2pk8eWJdR",
+        "album": "Let It Bleed",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1969-12-05"
+    },
+    {
+        "song": "Waterloo Sunset",
+        "song_id": "4qSk2aeaE2dh5ZOP0JdaV3",
+        "album": "Picture Book",
+        "artists": [
+            "The Kinks"
+        ],
+        "artists_id": [
+            "1SQRv42e4PjEYfPhS0Tk9E"
+        ],
+        "release_date": "2008-12-08"
+    },
+    {
+        "song": "I Want To Hold Your Hand - Remastered",
+        "song_id": "3JueJBdcGQaEAaWqPamsQt",
+        "album": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1988-03-07"
+    },
+    {
+        "song": "Crazy In Love (feat. Jay-Z)",
+        "song_id": "5IVuqXILoxVWvWEPm82Jxr",
+        "album": "Dangerously In Love",
+        "artists": [
+            "Beyonc\u00e9",
+            "JAY-Z"
+        ],
+        "artists_id": [
+            "6vWDO969PvNqNYHIOW5v0m",
+            "3nFkdlSjzX9mRTtwJOzDYB"
+        ],
+        "release_date": "2003-06-24"
+    },
+    {
+        "song": "Bohemian Rhapsody - Remastered 2011",
+        "song_id": "4u7EnebtmKWzUH433cf5Qv",
+        "album": "A Night At The Opera (2011 Remaster)",
+        "artists": [
+            "Queen"
+        ],
+        "artists_id": [
+            "1dfeR4HaWDbWqFHLkxsg1d"
+        ],
+        "release_date": "1975-11-21"
+    },
+    {
+        "song": "Purple Rain",
+        "song_id": "54X78diSLoUDI3joC2bjMz",
+        "album": "Purple Rain",
+        "artists": [
+            "Prince"
+        ],
+        "artists_id": [
+            "5a2EaR3hamoenG9rDuVn8j"
+        ],
+        "release_date": "1984-06-25"
+    },
+    {
+        "song": "Imagine - Remastered 2010",
+        "song_id": "7pKfPomDEeI4TPT6EOYjn9",
+        "album": "Imagine",
+        "artists": [
+            "John Lennon"
+        ],
+        "artists_id": [
+            "4x1nvY2FN8jxqAFA0DA02H"
+        ],
+        "release_date": "1971-09-09"
+    },
+    {
+        "song": "Dancing On My Own",
+        "song_id": "3Rc2ajBMInxeNGVkMPC92Y",
+        "album": "Body Talk Pt. 1",
+        "artists": [
+            "Robyn"
+        ],
+        "artists_id": [
+            "6UE7nl9mha6s8z0wFQFIZ2"
+        ],
+        "release_date": "2010-06-11"
+    },
+    {
+        "song": "Strange Fruit",
+        "song_id": "1CTex49P0iWwzUGsMNjgaV",
+        "album": "Billie Holiday",
+        "artists": [
+            "Billie Holiday"
+        ],
+        "artists_id": [
+            "1YzCsTRb22dQkh9lghPIrp"
+        ],
+        "release_date": "1957-01-01"
+    },
+    {
+        "song": "Be My Baby",
+        "song_id": "2G2YzndIA6jeWFPBXhUjh5",
+        "album": "Be My Baby: The Very Best of The Ronettes",
+        "artists": [
+            "The Ronettes"
+        ],
+        "artists_id": [
+            "7CyeXFnOrfC1N6z4naIpgo"
+        ],
+        "release_date": "2011-02-22"
+    },
+    {
+        "song": "Heroes - 2017 Remaster",
+        "song_id": "7Jh1bpe76CNTCgdgAdBw4Z",
+        "album": "\"Heroes\" (2017 Remaster)",
+        "artists": [
+            "David Bowie"
+        ],
+        "artists_id": [
+            "0oSGxfWSnnOXhD2fKuz2Gy"
+        ],
+        "release_date": "1977"
+    },
+    {
+        "song": "A Day In The Life - Remastered",
+        "song_id": "3ZFBeIyP41HhnALjxWy1pR",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1967-06-01"
+    },
+    {
+        "song": "Runaway",
+        "song_id": "3DK6m7It6Pw857FcQftMds",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "artists": [
+            "Kanye West",
+            "Pusha T"
+        ],
+        "artists_id": [
+            "5K4W6rqBFWDnAN6FQUkS6x",
+            "0ONHkAv9pCAFxb0zJwDNTy"
+        ],
+        "release_date": "2010-11-22"
+    },
+    {
+        "song": "A Case of You",
+        "song_id": "2tjPtYQMmZyvjPTGthh8fS",
+        "album": "Strings Attached Plays Joni Mitchell",
+        "artists": [
+            "Joni Mitchell Tribute by Strings Attached"
+        ],
+        "artists_id": [
+            "7d9zLQGDo0N0TC5aNGcmHW"
+        ],
+        "release_date": "2012-12-20"
+    },
+    {
+        "song": "Born to Run",
+        "song_id": "6hTcuIQa0sxrrByu9wTD7s",
+        "album": "Born To Run",
+        "artists": [
+            "Bruce Springsteen"
+        ],
+        "artists_id": [
+            "3eqjTLE0HfPfh78zjh6TqT"
+        ],
+        "release_date": "1975-08-25"
+    },
+    {
+        "song": "Once in a Lifetime",
+        "song_id": "1Tr4K5MU5XYE44umXGDndd",
+        "album": "Remain in Light",
+        "artists": [
+            "Talking Heads"
+        ],
+        "artists_id": [
+            "2x9SpqnPi8rlE9pjHBwmSC"
+        ],
+        "release_date": "1980-10-08"
+    },
+    {
+        "song": "Nuthin' But A \"G\" Thang",
+        "song_id": "5Tbpp3OLLClPJF8t1DmrFD",
+        "album": "The Chronic",
+        "artists": [
+            "Dr. Dre",
+            "Snoop Dogg"
+        ],
+        "artists_id": [
+            "6DPYiyq5kWVQS4RGwxzPC7",
+            "7hJcb9fa4alzcOq3EaNPoG"
+        ],
+        "release_date": "1992-12-15"
+    },
+    {
+        "song": "Royals",
+        "song_id": "2dLLR6qlu5UJ5gk0dKz0h3",
+        "album": "Pure Heroine",
+        "artists": [
+            "Lorde"
+        ],
+        "artists_id": [
+            "163tK9Wjr9P9DmM0AVK7lm"
+        ],
+        "release_date": "2013-09-27"
+    },
+    {
+        "song": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
+        "song_id": "7fSGbZLhWlAiCC3HDPAULu",
+        "album": "Out Of Our Heads (Remastered)",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1965-07-30"
+    },
+    {
+        "song": "Juicy - 2007 Remaster",
+        "song_id": "2b7FqlHc3JrzlYtGEkzq22",
+        "album": "Greatest Hits",
+        "artists": [
+            "The Notorious B.I.G."
+        ],
+        "artists_id": [
+            "5me0Irg2ANcsgc93uaYrpb"
+        ],
+        "release_date": "2007-03-02"
+    },
+    {
+        "song": "Johnny B. Goode",
+        "song_id": "3BUQFs6aFWh7EFNmI8bfL7",
+        "album": "Berry Is On Top",
+        "artists": [
+            "Chuck Berry"
+        ],
+        "artists_id": [
+            "293zczrfYafIItmnmM3coR"
+        ],
+        "release_date": "1959-01-01"
+    },
+    {
+        "song": "Papa's Got A Brand New Bag - Pt. 1",
+        "song_id": "5NbC9nnjcsebugrREWcYVy",
+        "album": "Star Time",
+        "artists": [
+            "James Brown"
+        ],
+        "artists_id": [
+            "7GaxyUddsPok8BuhxN6OUW"
+        ],
+        "release_date": "1991-01-01"
+    },
+    {
+        "song": "Tutti Frutti",
+        "song_id": "0Fau19QCs19VC7OWohMdzu",
+        "album": "The Georgia Peach",
+        "artists": [
+            "Little Richard"
+        ],
+        "artists_id": [
+            "4xls23Ye9WR9yy3yYMpAMm"
+        ],
+        "release_date": "1991-01-01"
+    },
+    {
+        "song": "Seven Nation Army",
+        "song_id": "7i6r9KotUPQg3ozKKgEPIN",
+        "album": "Elephant",
+        "artists": [
+            "The White Stripes"
+        ],
+        "artists_id": [
+            "4F84IBURUo98rz4r61KF70"
+        ],
+        "release_date": "2003-04-01"
+    },
+    {
+        "song": "When Doves Cry",
+        "song_id": "51H2y6YrNNXcy3dfc3qSbA",
+        "album": "Purple Rain",
+        "artists": [
+            "Prince"
+        ],
+        "artists_id": [
+            "5a2EaR3hamoenG9rDuVn8j"
+        ],
+        "release_date": "1984-06-25"
+    },
+    {
+        "song": "(Sittin' On) the Dock of the Bay",
+        "song_id": "3zBhihYUHBmGd2bcQIobrF",
+        "album": "The Dock of the Bay (Mono)",
+        "artists": [
+            "Otis Redding"
+        ],
+        "artists_id": [
+            "60df5JBRRPcnSpsIMxxwQm"
+        ],
+        "release_date": "1968"
+    },
+    {
+        "song": "B.O.B. - Bombs Over Baghdad",
+        "song_id": "3WibbMr6canxRJXhNtAvLU",
+        "album": "Stankonia",
+        "artists": [
+            "Outkast"
+        ],
+        "artists_id": [
+            "1G9G7WwrXka3Z1r7aIDjI7"
+        ],
+        "release_date": "2000-10-31"
+    },
+    {
+        "song": "All Along the Watchtower",
+        "song_id": "2aoo2jlRnM3A0NyLQqMN2f",
+        "album": "Electric Ladyland",
+        "artists": [
+            "Jimi Hendrix"
+        ],
+        "artists_id": [
+            "776Uo845nYHJpNaStv1Ds4"
+        ],
+        "release_date": "1968-10-25"
+    },
+    {
+        "song": "Love Will Tear Us Apart - 2010 Remaster",
+        "song_id": "1r8oPEXqnhUVgkUkJNqEuF",
+        "album": "Substance",
+        "artists": [
+            "Joy Division"
+        ],
+        "artists_id": [
+            "432R46LaYsJZV2Gmc4jUV5"
+        ],
+        "release_date": "2010"
+    },
+    {
+        "song": "Redemption Song",
+        "song_id": "21dOjdraFZffs2lnQObaiZ",
+        "album": "Uprising",
+        "artists": [
+            "Bob Marley & The Wailers"
+        ],
+        "artists_id": [
+            "2QsynagSdAqZj3U9HgDzjD"
+        ],
+        "release_date": "1980"
+    },
+    {
+        "song": "My Girl",
+        "song_id": "6RrXd9Hph4hYR4bf3dbM6H",
+        "album": "The Temptations Sing Smokey",
+        "artists": [
+            "The Temptations"
+        ],
+        "artists_id": [
+            "3RwQ26hR2tJtA8F9p2n7jG"
+        ],
+        "release_date": "1965-01-01"
+    },
+    {
+        "song": "Billie Jean",
+        "song_id": "5ChkMS8OtdzJeqyybCc9R5",
+        "album": "Thriller 25 Super Deluxe Edition",
+        "artists": [
+            "Michael Jackson"
+        ],
+        "artists_id": [
+            "3fMbdgg4jU18AjLCKBhRSm"
+        ],
+        "release_date": "2008-02-08"
+    },
+    {
+        "song": "Alright",
+        "song_id": "3iVcZ5G6tvkXZkZKlMpIUs",
+        "album": "To Pimp A Butterfly",
+        "artists": [
+            "Kendrick Lamar"
+        ],
+        "artists_id": [
+            "2YZyLoL8N0Wb9xBt1NhZWg"
+        ],
+        "release_date": "2015-03-16"
+    },
+    {
+        "song": "Paper Planes",
+        "song_id": "1ixbwbeBi5ufN4noUKmW5a",
+        "album": "Kala",
+        "artists": [
+            "M.I.A."
+        ],
+        "artists_id": [
+            "0QJIPDAEDILuo8AIq3pMuU"
+        ],
+        "release_date": "2007-08-20"
+    },
+    {
+        "song": "Tiny Dancer",
+        "song_id": "2TVxnKdb3tqe1nhQWwwZCO",
+        "album": "Madman Across The Water",
+        "artists": [
+            "Elton John"
+        ],
+        "artists_id": [
+            "3PhoLpVuITZKcymswpck5b"
+        ],
+        "release_date": "1971-11-05"
+    },
+    {
+        "song": "Idioteque",
+        "song_id": "1W5XugQJGhnSATMI5n002M",
+        "album": "Kid A",
+        "artists": [
+            "Radiohead"
+        ],
+        "artists_id": [
+            "4Z8W4fKeB5YxbusRsdQVPb"
+        ],
+        "release_date": "2000-10-02"
+    },
+    {
+        "song": "Doo Wop (That Thing)",
+        "song_id": "0uEp9E98JB5awlA084uaIg",
+        "album": "The Miseducation of Lauryn Hill",
+        "artists": [
+            "Ms. Lauryn Hill"
+        ],
+        "artists_id": [
+            "2Mu5NfyYm8n5iTomuKAEHl"
+        ],
+        "release_date": "1998-08-25"
+    },
+    {
+        "song": "Gasolina",
+        "song_id": "228BxWXUYQPJrJYHDLOHkj",
+        "album": "Barrio Fino (Bonus Track Version)",
+        "artists": [
+            "Daddy Yankee"
+        ],
+        "artists_id": [
+            "4VMYDCV2IEDYJArk749S6m"
+        ],
+        "release_date": "2004-07-13"
+    },
+    {
+        "song": "Walk on By",
+        "song_id": "3xsOtNxtBW0oTI1OWKAzTm",
+        "album": "Make Way for Dionne Warwick",
+        "artists": [
+            "Dionne Warwick"
+        ],
+        "artists_id": [
+            "2JSjCHK79gdaiPWdKiNUNp"
+        ],
+        "release_date": "1964"
+    },
+    {
+        "song": "I Feel Love",
+        "song_id": "4rS63BySQrdWuTswkkZ5iS",
+        "album": "The Dance Collection",
+        "artists": [
+            "Donna Summer"
+        ],
+        "artists_id": [
+            "2eogQKWWoohI3BSnoG7E2U"
+        ],
+        "release_date": "1987-01-01"
+    },
+    {
+        "song": "Good Vibrations - Remastered 2001",
+        "song_id": "5t9KYe0Fhd5cW6UYT4qP8f",
+        "album": "Smiley Smile (Remastered)",
+        "artists": [
+            "The Beach Boys"
+        ],
+        "artists_id": [
+            "3oDbviiivRWhXwIE8hxkVV"
+        ],
+        "release_date": "1967-09-18"
+    },
+    {
+        "song": "The Tracks Of My Tears",
+        "song_id": "6QyQmdvQ1ywNccYa0pwLNQ",
+        "album": "Going To A Go-Go",
+        "artists": [
+            "Smokey Robinson & The Miracles"
+        ],
+        "artists_id": [
+            "6TKOZZDd5uV5KnyC5G4MUt"
+        ],
+        "release_date": "1965-11-01"
+    },
+    {
+        "song": "Like a Prayer",
+        "song_id": "1z3ugFmUKoCzGsI6jdY4Ci",
+        "album": "Celebration (double disc version)",
+        "artists": [
+            "Madonna"
+        ],
+        "artists_id": [
+            "6tbjWDEIzxoDsBA1FuhfPW"
+        ],
+        "release_date": "2009-09-18"
+    },
+    {
+        "song": "Work It",
+        "song_id": "3jagJCUbdqhDSPuxP8cAqF",
+        "album": "Under Construction",
+        "artists": [
+            "Missy Elliott"
+        ],
+        "artists_id": [
+            "2wIVse2owClT7go1WT98tk"
+        ],
+        "release_date": "2002-11-12"
+    },
+    {
+        "song": "Family Affair - Single Version",
+        "song_id": "2GVEs1sn5Q1jB1976vQoAX",
+        "album": "There's A Riot Goin' On (Expanded Edition)",
+        "artists": [
+            "Sly & The Family Stone"
+        ],
+        "artists_id": [
+            "5m8H6zSadhu1j9Yi04VLqD"
+        ],
+        "release_date": "1971-11-20"
+    },
+    {
+        "song": "The Weight - Remastered",
+        "song_id": "0sDqo9UPzPUtu9wEkI3zRB",
+        "album": "Music From Big Pink (Expanded Edition)",
+        "artists": [
+            "The Band"
+        ],
+        "artists_id": [
+            "4vpDg7Y7fU982Ds30zawDA"
+        ],
+        "release_date": "1968-07-01"
+    },
+    {
+        "song": "The Message - Extended Version",
+        "song_id": "5isA9icHWl2651hvfr1EOV",
+        "album": "The Message (Expanded Edition)",
+        "artists": [
+            "Grandmaster Flash & The Furious Five"
+        ],
+        "artists_id": [
+            "5hQCwevTf03u1rECrRMeop"
+        ],
+        "release_date": "2010-01-01"
+    },
+    {
+        "song": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+        "song_id": "29d0nY7TzCoi22XBqDQkiP",
+        "album": "Hounds of Love (2018 Remaster)",
+        "artists": [
+            "Kate Bush"
+        ],
+        "artists_id": [
+            "1aSxMhuvixZ8h9dK9jIDwL"
+        ],
+        "release_date": "1985-09-16"
+    },
+    {
+        "song": "Stairway to Heaven - Remaster",
+        "song_id": "5CQ30WqJwcep0pYcV4AMNc",
+        "album": "Led Zeppelin IV (Deluxe Edition)",
+        "artists": [
+            "Led Zeppelin"
+        ],
+        "artists_id": [
+            "36QJpDe2go2KgaRleHCDTp"
+        ],
+        "release_date": "1971-11-08"
+    },
+    {
+        "song": "One",
+        "song_id": "3PKtemUKxiDBvBo7tpQ8bG",
+        "album": "Achtung Baby",
+        "artists": [
+            "U2"
+        ],
+        "artists_id": [
+            "51Blml2LZPmy7TTiAg47vQ"
+        ],
+        "release_date": "1991-11-18"
+    },
+    {
+        "song": "Jolene",
+        "song_id": "2SpEHTbUuebeLkgs9QB7Ue",
+        "album": "Jolene",
+        "artists": [
+            "Dolly Parton"
+        ],
+        "artists_id": [
+            "32vWCbZh0xZ4o9gkz4PsEU"
+        ],
+        "release_date": "1974-02-04"
+    },
+    {
+        "song": "Blitzkrieg Bop",
+        "song_id": "22ea9e9wspXjaR7qfqfsdS",
+        "album": "Hey Ho Let's Go",
+        "artists": [
+            "Ramones"
+        ],
+        "artists_id": [
+            "1co4F2pPNH8JjTutZkmgSm"
+        ],
+        "release_date": "2017-04-14"
+    },
+    {
+        "song": "September",
+        "song_id": "2grjqo0Frpf2okIBiifQKs",
+        "album": "The Best Of Earth, Wind & Fire Vol. 1",
+        "artists": [
+            "Earth, Wind & Fire"
+        ],
+        "artists_id": [
+            "4QQgXkCYTt3BlENzhyNETg"
+        ],
+        "release_date": "1978-11-23"
+    },
+    {
+        "song": "Bridge Over Troubled Water",
+        "song_id": "6l8EbYRtQMgKOyc1gcDHF9",
+        "album": "Bridge Over Troubled Water",
+        "artists": [
+            "Simon & Garfunkel"
+        ],
+        "artists_id": [
+            "70cRZdQywnSFp9pnc2WTCE"
+        ],
+        "release_date": "1970-01-26"
+    },
+    {
+        "song": "Tangled up in Blue",
+        "song_id": "6Vcwr9tb3ZLO63F8DL8cqu",
+        "album": "Blood On The Tracks",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1975-01-17"
+    },
+    {
+        "song": "Good Times",
+        "song_id": "6LdxORCLRfmxxAsEc9K7MH",
+        "album": "Rhino Hi-Five: Chic",
+        "artists": [
+            "CHIC"
+        ],
+        "artists_id": [
+            "0Xf8oDAJYd2D0k3NLI19OV"
+        ],
+        "release_date": "2005-03-15"
+    },
+    {
+        "song": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "song_id": "5enxwA8aAbwZbf5qCHORXi",
+        "album": "Red (Taylor's Version)",
+        "artists": [
+            "Taylor Swift"
+        ],
+        "artists_id": [
+            "06HL4z0CvFAxyc27GXpf02"
+        ],
+        "release_date": "2021-11-12"
+    },
+    {
+        "song": "Suspicious Minds",
+        "song_id": "6KDG8vvFerlCU63IXdw1zb",
+        "album": "Elvis 30 #1 Hits",
+        "artists": [
+            "Elvis Presley"
+        ],
+        "artists_id": [
+            "43ZHCT0cAZBISjO8DG9PnE"
+        ],
+        "release_date": "2002-09-24"
+    },
+    {
+        "song": "Fast Car",
+        "song_id": "2M9ro2krNb7nr7HSprkEgo",
+        "album": "Tracy Chapman",
+        "artists": [
+            "Tracy Chapman"
+        ],
+        "artists_id": [
+            "7oPgCQqMMXEXrNau5vxYZP"
+        ],
+        "release_date": "1988-04-05"
+    },
+    {
+        "song": "Yesterday - Remastered",
+        "song_id": "1e0hllQ23AG0QGFgezgLOq",
+        "album": "Help! (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1965-08-06"
+    },
+    {
+        "song": "Formation",
+        "song_id": "6g0Orsxv6glTJCt4cHsRsQ",
+        "album": "Lemonade",
+        "artists": [
+            "Beyonc\u00e9"
+        ],
+        "artists_id": [
+            "6vWDO969PvNqNYHIOW5v0m"
+        ],
+        "release_date": "2016-04-23"
+    },
+    {
+        "song": "Hallelujah",
+        "song_id": "7yzbimr8WVyAtBX3Eg6UL9",
+        "album": "Various Positions",
+        "artists": [
+            "Leonard Cohen"
+        ],
+        "artists_id": [
+            "5l8VQNuIg0turYE1VtM9zV"
+        ],
+        "release_date": "1984-12-11"
+    },
+    {
+        "song": "Common People - Full Length Version",
+        "song_id": "2fXKyAyPrEa24c6PJyqznF",
+        "album": "Different Class",
+        "artists": [
+            "Pulp"
+        ],
+        "artists_id": [
+            "36E7oYfz3LLRto6l2WmDcD"
+        ],
+        "release_date": "1995-10-30"
+    },
+    {
+        "song": "I Walk the Line",
+        "song_id": "7hxZF4jETnE5Q75rKQnMjE",
+        "album": "I Walk the Line (Original Soundtrack Recording)",
+        "artists": [
+            "Johnny Cash"
+        ],
+        "artists_id": [
+            "6kACVPfCOnqzgfEF5ryl0x"
+        ],
+        "release_date": "1970-11-11"
+    },
+    {
+        "song": "Roadrunner",
+        "song_id": "5E5HYgxGMp3BPakHGfKfIB",
+        "album": "The Modern Lovers (Expanded Version)",
+        "artists": [
+            "The Modern Lovers"
+        ],
+        "artists_id": [
+            "2eRdPaLHWAL4d1WcNUO9Vz"
+        ],
+        "release_date": "1976-09-01"
+    },
+    {
+        "song": "Reach Out I'll Be There",
+        "song_id": "6Pkj4nv5K53i64cLVgkVyY",
+        "album": "Reach Out",
+        "artists": [
+            "Four Tops"
+        ],
+        "artists_id": [
+            "7fIvjotigTGWqjIz6EP1i4"
+        ],
+        "release_date": "1967-07-01"
+    },
+    {
+        "song": "Back To Black",
+        "song_id": "30FURVTCpbKyykjSEQzGkH",
+        "album": "Back To Black",
+        "artists": [
+            "Amy Winehouse"
+        ],
+        "artists_id": [
+            "6Q192DXotxtaysaqNPy5yR"
+        ],
+        "release_date": "2006-10-27"
+    },
+    {
+        "song": "What'd I Say, Pt. 1 & 2",
+        "song_id": "5yQ9iMZXGcr5rlO4hoLsP4",
+        "album": "What'd I Say",
+        "artists": [
+            "Ray Charles"
+        ],
+        "artists_id": [
+            "1eYhYunlNJlDoQhtYBvPsi"
+        ],
+        "release_date": "1959"
+    },
+    {
+        "song": "I'm Waiting For The Man",
+        "song_id": "3fElupNRLRJ0tbUDahPrAb",
+        "album": "The Velvet Underground & Nico 45th Anniversary",
+        "artists": [
+            "The Velvet Underground",
+            "Nico"
+        ],
+        "artists_id": [
+            "1nJvji2KIlWSseXRSlNYsC",
+            "0IwlY33zbBXN7zlS9DP2Cj"
+        ],
+        "release_date": "1967-03-12"
+    },
+    {
+        "song": "Rolling in the Deep",
+        "song_id": "1c8gk2PeTE04A1pIDH9YMk",
+        "album": "21",
+        "artists": [
+            "Adele"
+        ],
+        "artists_id": [
+            "4dpARuHxo51G3z768sgnrY"
+        ],
+        "release_date": "2011-01-24"
+    },
+    {
+        "song": "Desolation Row",
+        "song_id": "4n1ZGm3TxYmoYe1YR8cMus",
+        "album": "Highway 61 Revisited",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1965-08-30"
+    },
+    {
+        "song": "Let's Stay Together",
+        "song_id": "63xdwScd1Ai1GigAwQxE8y",
+        "album": "Let's Stay Together",
+        "artists": [
+            "Al Green"
+        ],
+        "artists_id": [
+            "3dkbV4qihUeMsqN4vBGg93"
+        ],
+        "release_date": "1972"
+    },
+    {
+        "song": "Kiss",
+        "song_id": "62LJFaYihsdVrrkgUOJC05",
+        "album": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "artists": [
+            "Prince"
+        ],
+        "artists_id": [
+            "5a2EaR3hamoenG9rDuVn8j"
+        ],
+        "release_date": "1986-03-31"
+    },
+    {
+        "song": "Tumbling Dice",
+        "song_id": "4hq0S6wznq7SHDyMOFXL9i",
+        "album": "Exile On Main Street (2010 Re-Mastered)",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1972-05-12"
+    },
+    {
+        "song": "All My Friends",
+        "song_id": "2Ud3deeqLAG988pfW0Kwcl",
+        "album": "Sound of Silver",
+        "artists": [
+            "LCD Soundsystem"
+        ],
+        "artists_id": [
+            "066X20Nz7iquqkkCW6Jxy6"
+        ],
+        "release_date": "2007-03-12"
+    },
+    {
+        "song": "Sweet Child O' Mine",
+        "song_id": "7snQQk1zcKl8gZ92AnueZW",
+        "album": "Appetite For Destruction",
+        "artists": [
+            "Guns N' Roses"
+        ],
+        "artists_id": [
+            "3qm84nBOXUEQ2vnTfUTTFC"
+        ],
+        "release_date": "1987-07-21"
+    },
+    {
+        "song": "Hey Jude - Remastered",
+        "song_id": "0eY0YgyLAZ4gtM57wwYN7H",
+        "album": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1988-03-07"
+    },
+    {
+        "song": "(You Make Me Feel Like) A Natural Woman",
+        "song_id": "5K09WxKdlkroDyEVyOSySy",
+        "album": "Lady Soul (With Bonus Selections)",
+        "artists": [
+            "Aretha Franklin"
+        ],
+        "artists_id": [
+            "7nwUJBm0HE4ZxD3f5cy5ok"
+        ],
+        "release_date": "1968-01-22"
+    },
+    {
+        "song": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+        "song_id": "4ns1XFP3W5JPyzvnAjMdHD",
+        "album": "UGK (Underground Kingz)",
+        "artists": [
+            "UGK",
+            "Outkast"
+        ],
+        "artists_id": [
+            "6ZhjJOJXXwnPS8PrXdmjLw",
+            "1G9G7WwrXka3Z1r7aIDjI7"
+        ],
+        "release_date": "2007-08-07"
+    },
+    {
+        "song": "Good Golly Miss Molly",
+        "song_id": "1fMMRoalpb7E8m5FsAta2y",
+        "album": "The Very Best Of Little Richard",
+        "artists": [
+            "Little Richard"
+        ],
+        "artists_id": [
+            "4xls23Ye9WR9yy3yYMpAMm"
+        ],
+        "release_date": "2008-01-01"
+    },
+    {
+        "song": "Since U Been Gone",
+        "song_id": "3xrn9i8zhNZsTtcoWgQEAd",
+        "album": "Breakaway",
+        "artists": [
+            "Kelly Clarkson"
+        ],
+        "artists_id": [
+            "3BmGtnKgCSGYIUhmivXKWX"
+        ],
+        "release_date": "2004-01-17"
+    },
+    {
+        "song": "I Will Always Love You",
+        "song_id": "4eHbdreAnSOrDDsFfc4Fpm",
+        "album": "The Bodyguard - Original Soundtrack Album",
+        "artists": [
+            "Whitney Houston"
+        ],
+        "artists_id": [
+            "6XpaIBNiVzIetEPCWDvAFP"
+        ],
+        "release_date": "1992-11-17"
+    },
+    {
+        "song": "Wonderwall",
+        "song_id": "1qPbGZqppFwLwcBC1JQ6Vr",
+        "album": "(What's The Story) Morning Glory?",
+        "artists": [
+            "Oasis"
+        ],
+        "artists_id": [
+            "2DaxqgrOhkeH0fpeiQq2f4"
+        ],
+        "release_date": "1995-10-02"
+    },
+    {
+        "song": "99 Problems",
+        "song_id": "7sLpSWxQazJzDVG6YGzlVs",
+        "album": "The Black Album",
+        "artists": [
+            "JAY-Z"
+        ],
+        "artists_id": [
+            "3nFkdlSjzX9mRTtwJOzDYB"
+        ],
+        "release_date": "2003-11-14"
+    },
+    {
+        "song": "Gloria: In Excelsis Deo",
+        "song_id": "272Z4tzaSMMcgrZ0R494S2",
+        "album": "Horses (Legacy Edition)",
+        "artists": [
+            "Patti Smith"
+        ],
+        "artists_id": [
+            "0vYkHhJ48Bs3jWcvZXvOrP"
+        ],
+        "release_date": "1975"
+    },
+    {
+        "song": "In My Life - Remastered",
+        "song_id": "5QqdvVeYLL1xvZ1ndUjxnO",
+        "album": "Rubber Soul (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1965-12-03"
+    },
+    {
+        "song": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+        "song_id": "3mRM4NM8iO7UBqrSigCQFH",
+        "album": "Greatest",
+        "artists": [
+            "Bee Gees"
+        ],
+        "artists_id": [
+            "1LZEQNv7sE11VDY3SdxQeN"
+        ],
+        "release_date": "1979-01-01"
+    },
+    {
+        "song": "Blowin' in the Wind",
+        "song_id": "18GiV1BaXzPVYpp9rmOg0E",
+        "album": "The Freewheelin' Bob Dylan",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1963-05-27"
+    },
+    {
+        "song": "Maps",
+        "song_id": "0hDQV9X1Da5JrwhK8gu86p",
+        "album": "Fever To Tell (Deluxe Remastered)",
+        "artists": [
+            "Yeah Yeah Yeahs"
+        ],
+        "artists_id": [
+            "3TNt4aUIxgfy9aoaft5Jj2"
+        ],
+        "release_date": "2003-04-29"
+    },
+    {
+        "song": "Maybellene - Single Version",
+        "song_id": "6cYSSiMroBAZj6dFxSlwVY",
+        "album": "After School Session",
+        "artists": [
+            "Chuck Berry"
+        ],
+        "artists_id": [
+            "293zczrfYafIItmnmM3coR"
+        ],
+        "release_date": "1957"
+    },
+    {
+        "song": "You Oughta Know",
+        "song_id": "0Dw9z44gXhplDh5HCWZIxP",
+        "album": "Jagged Little Pill",
+        "artists": [
+            "Alanis Morissette"
+        ],
+        "artists_id": [
+            "6ogn9necmbUdCppmNnGOdi"
+        ],
+        "release_date": "1995-06-09"
+    },
+    {
+        "song": "I Want You Back",
+        "song_id": "5LxvwujISqiB8vpRYv887S",
+        "album": "Diana Ross Presents The Jackson 5",
+        "artists": [
+            "The Jackson 5"
+        ],
+        "artists_id": [
+            "2iE18Oxc8YSumAU232n4rW"
+        ],
+        "release_date": "1969-12-18"
+    },
+    {
+        "song": "Life on Mars? - 2015 Remaster",
+        "song_id": "3ZE3wv8V3w2T2f7nOCjV0N",
+        "album": "Hunky Dory (2015 Remaster)",
+        "artists": [
+            "David Bowie"
+        ],
+        "artists_id": [
+            "0oSGxfWSnnOXhD2fKuz2Gy"
+        ],
+        "release_date": "1971-12-17"
+    },
+    {
+        "song": "Sympathy For The Devil",
+        "song_id": "4sFbojhVXQv7dBC9PVCcRn",
+        "album": "Beggars Banquet",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1968-12-06"
+    },
+    {
+        "song": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+        "song_id": "119c93MHjrDLJTApCVGpvx",
+        "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "artists": [
+            "Wu-Tang Clan"
+        ],
+        "artists_id": [
+            "34EP7KEpOjXcM2TCat1ISk"
+        ],
+        "release_date": "1993-11-09"
+    },
+    {
+        "song": "Just like Heaven",
+        "song_id": "76GlO5H5RT6g7y0gev86Nk",
+        "album": "Kiss Me, Kiss Me, Kiss Me",
+        "artists": [
+            "The Cure"
+        ],
+        "artists_id": [
+            "7bu3H8JO7d0UbMoVzbo70s"
+        ],
+        "release_date": "1987-05-25"
+    },
+    {
+        "song": "Everyday People",
+        "song_id": "7lL2lMWNtzOcf5HnEudNgn",
+        "album": "R&B: From Doo-Wop To Hip-Hop",
+        "artists": [
+            "Sly & The Family Stone"
+        ],
+        "artists_id": [
+            "5m8H6zSadhu1j9Yi04VLqD"
+        ],
+        "release_date": "1999-10-08"
+    },
+    {
+        "song": "Something - Remastered 2009",
+        "song_id": "0pNeVovbiZHkulpGeOx1Gj",
+        "album": "Abbey Road (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1969-09-26"
+    },
+    {
+        "song": "Thunder Road",
+        "song_id": "56lhDZNQ5J47aog6mGKeGk",
+        "album": "Born To Run",
+        "artists": [
+            "Bruce Springsteen"
+        ],
+        "artists_id": [
+            "3eqjTLE0HfPfh78zjh6TqT"
+        ],
+        "release_date": "1975-08-25"
+    },
+    {
+        "song": "Losing My Religion",
+        "song_id": "31AOj9sFz2gM0O3hMARRBx",
+        "album": "Out Of Time (25th Anniversary Edition)",
+        "artists": [
+            "R.E.M."
+        ],
+        "artists_id": [
+            "4KWTAlx2RvbpseOGMEmROg"
+        ],
+        "release_date": "1991-03-12"
+    },
+    {
+        "song": "Higher Ground",
+        "song_id": "0dMd4rilfd6gPbXaLpNYhu",
+        "album": "Innervisions",
+        "artists": [
+            "Stevie Wonder"
+        ],
+        "artists_id": [
+            "7guDJrEfX3qb6FEbdPA5qi"
+        ],
+        "release_date": "1973-08-03"
+    },
+    {
+        "song": "Toxic",
+        "song_id": "6I9VzXrHxO9rA9A5euc8Ak",
+        "album": "In The Zone",
+        "artists": [
+            "Britney Spears"
+        ],
+        "artists_id": [
+            "26dSoYclwsYLMAKD3tpOr4"
+        ],
+        "release_date": "2003-11-13"
+    },
+    {
+        "song": "At Last",
+        "song_id": "4Hhv2vrOTy89HFRcjU3QOx",
+        "album": "At Last!",
+        "artists": [
+            "Etta James"
+        ],
+        "artists_id": [
+            "0iOVhN3tnSvgDbcg25JoJb"
+        ],
+        "release_date": "1960"
+    },
+    {
+        "song": "It Takes Two",
+        "song_id": "0gFB5H3pHN13ERt2FyMuWi",
+        "album": "It Takes Two",
+        "artists": [
+            "Rob Base & DJ EZ Rock"
+        ],
+        "artists_id": [
+            "6vwFR7NilfrQ4AX0d41fWu"
+        ],
+        "release_date": "1988-05-05"
+    },
+    {
+        "song": "I Say a Little Prayer",
+        "song_id": "3NfxSdJnVdon1axzloJgba",
+        "album": "Aretha Now",
+        "artists": [
+            "Aretha Franklin"
+        ],
+        "artists_id": [
+            "7nwUJBm0HE4ZxD3f5cy5ok"
+        ],
+        "release_date": "1968-06-14"
+    },
+    {
+        "song": "Creep",
+        "song_id": "70LcF31zb1H0PyJoS1Sx1r",
+        "album": "Pablo Honey",
+        "artists": [
+            "Radiohead"
+        ],
+        "artists_id": [
+            "4Z8W4fKeB5YxbusRsdQVPb"
+        ],
+        "release_date": "1993-02-22"
+    },
+    {
+        "song": "I Heard It Through The Grapevine",
+        "song_id": "27m1soUndRthrAA1ediOXn",
+        "album": "I Heard It Through The Grapevine / In The Groove (Stereo)",
+        "artists": [
+            "Marvin Gaye"
+        ],
+        "artists_id": [
+            "3koiLjNrgRTNbOwViDipeA"
+        ],
+        "release_date": "1969-08-26"
+    },
+    {
+        "song": "Oh Bondage Up Yours!",
+        "song_id": "3Ap7YIpMkjNiyZnRJiWsVy",
+        "album": "Live @ The Roundhouse London 2008",
+        "artists": [
+            "X-Ray Spex"
+        ],
+        "artists_id": [
+            "5BgWMOdEUJYdUBH3WXfMWt"
+        ],
+        "release_date": "2009-11-09"
+    },
+    {
+        "song": "Let It Be - Remastered",
+        "song_id": "5V1AHQugSTASVez5ffJtFo",
+        "album": "Let It Be (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1970-05-08"
+    },
+    {
+        "song": "People Get Ready - Single Version",
+        "song_id": "1MlXd4giftxXZgeMItb3PQ",
+        "album": "Curtis Mayfield & The Impressions - Universal Masters",
+        "artists": [
+            "The Impressions"
+        ],
+        "artists_id": [
+            "1b1N51wmSK0ckxFAMPSSHO"
+        ],
+        "release_date": "2003-01-01"
+    },
+    {
+        "song": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+        "song_id": "6aBUnkXuCEQQHAlTokv9or",
+        "album": "Speaking in Tongues (Deluxe Version)",
+        "artists": [
+            "Talking Heads"
+        ],
+        "artists_id": [
+            "2x9SpqnPi8rlE9pjHBwmSC"
+        ],
+        "release_date": "1983-05-31"
+    },
+    {
+        "song": "That'll Be The Day",
+        "song_id": "50RwvvEKX5Q7AZt8FTAwIF",
+        "album": "That'll Be The Day",
+        "artists": [
+            "Buddy Holly"
+        ],
+        "artists_id": [
+            "3wYyutjgII8LJVVOLrGI0D"
+        ],
+        "release_date": "1958-06-01"
+    },
+    {
+        "song": "Anarchy In The UK",
+        "song_id": "5moTxUGPZXgGmosl4rIELm",
+        "album": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "artists": [
+            "Sex Pistols"
+        ],
+        "artists_id": [
+            "1u7kkVrr14iBvrpYnZILJR"
+        ],
+        "release_date": "1977-10-27"
+    },
+    {
+        "song": "Freedom! '90",
+        "song_id": "1SKApv6ZfJ9bkUxeRObJEF",
+        "album": "Ladies And Gentlemen... The Best Of George Michael",
+        "artists": [
+            "George Michael"
+        ],
+        "artists_id": [
+            "19ra5tSw0tWufvUp8GotLo"
+        ],
+        "release_date": "1998-11-09"
+    },
+    {
+        "song": "Waterfalls",
+        "song_id": "6qspW4YKycviDFjHBOaqUY",
+        "album": "Crazysexycool",
+        "artists": [
+            "TLC"
+        ],
+        "artists_id": [
+            "0TImkz4nPqjegtVSMZnMRq"
+        ],
+        "release_date": "1994-11-15"
+    },
+    {
+        "song": "Whole Lotta Love - 1990 Remaster",
+        "song_id": "0hCB0YR03f6AmQaHbwWDe8",
+        "album": "Led Zeppelin II (1994 Remaster)",
+        "artists": [
+            "Led Zeppelin"
+        ],
+        "artists_id": [
+            "36QJpDe2go2KgaRleHCDTp"
+        ],
+        "release_date": "1969-10-22"
+    },
+    {
+        "song": "Hold On, We're Going Home",
+        "song_id": "2aSC2xhRxOLiiZZVjhbylH",
+        "album": "Nothing Was The Same",
+        "artists": [
+            "Drake",
+            "Majid Jordan"
+        ],
+        "artists_id": [
+            "3TVXtAsR1Inumwj472S9r4",
+            "4HzKw8XcD0piJmDrrPRCYk"
+        ],
+        "release_date": "2013-01-01"
+    },
+    {
+        "song": "Dancing In The Street",
+        "song_id": "3UoUMTLrAmjlHSmuC8aEKq",
+        "album": "Dance Party",
+        "artists": [
+            "Martha Reeves & The Vandellas"
+        ],
+        "artists_id": [
+            "1Pe5hlKMCTULjosqZ6KanP"
+        ],
+        "release_date": "1965-01-01"
+    },
+    {
+        "song": "Stand By Me",
+        "song_id": "3SdTKo2uVsxFblQjpScoHy",
+        "album": "Don't Play That Song (Mono)",
+        "artists": [
+            "Ben E. King"
+        ],
+        "artists_id": [
+            "3plJVWt88EqjvtuB4ZDRV3"
+        ],
+        "release_date": "1962-08-20"
+    },
+    {
+        "song": "Paid In Full",
+        "song_id": "20s3FayrStM8GY0m4dRFsw",
+        "album": "Paid In Full",
+        "artists": [
+            "Eric B. & Rakim",
+            "Marley Marl"
+        ],
+        "artists_id": [
+            "6jHG1YQkqgojdEzerwvrVv",
+            "0AqfGv5Nifg1klh0iH4Nqs"
+        ],
+        "release_date": "1987-07-07"
+    },
+    {
+        "song": "Don't Stop Believin'",
+        "song_id": "4bHsxqR3GMrXTxEPLuK5ue",
+        "album": "Escape (Bonus Track Version)",
+        "artists": [
+            "Journey"
+        ],
+        "artists_id": [
+            "0rvjqX7ttXeg3mTy8Xscbt"
+        ],
+        "release_date": "1981"
+    },
+    {
+        "song": "What's Love Got to Do with It",
+        "song_id": "4kOfxxnW1ukZdsNbCKY9br",
+        "album": "What's Love Got to Do with It?",
+        "artists": [
+            "Tina Turner"
+        ],
+        "artists_id": [
+            "1zuJe6b1roixEKMOtyrEak"
+        ],
+        "release_date": "1993"
+    },
+    {
+        "song": "She Loves You - Mono Version / Remastered 2009",
+        "song_id": "0qsS2A3hwicJCLtcaR6JRQ",
+        "album": "The Beatles 1962 - 1966 (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1973-04-01"
+    },
+    {
+        "song": "Try a Little Tenderness",
+        "song_id": "36AlMHDBFwSsD3FQOy1R81",
+        "album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "artists": [
+            "Otis Redding"
+        ],
+        "artists_id": [
+            "60df5JBRRPcnSpsIMxxwQm"
+        ],
+        "release_date": "1966-10-15"
+    },
+    {
+        "song": "thank u, next",
+        "song_id": "3e9HZxeyfWwjeyPAMmWSSQ",
+        "album": "thank u, next",
+        "artists": [
+            "Ariana Grande"
+        ],
+        "artists_id": [
+            "66CXWjxzNUsdJxJ2JdwvnR"
+        ],
+        "release_date": "2019-02-08"
+    },
+    {
+        "song": "Heart Of Glass",
+        "song_id": "4v2rkl1mC3zVAz0nXMx9r4",
+        "album": "Parallel Lines",
+        "artists": [
+            "Blondie"
+        ],
+        "artists_id": [
+            "4tpUmLEVLCGFr93o8hFFIB"
+        ],
+        "release_date": "1978-09-23"
+    },
+    {
+        "song": "Vogue",
+        "song_id": "27QvYgBk0CHOVHthWnkuWt",
+        "album": "Celebration (double disc version)",
+        "artists": [
+            "Madonna"
+        ],
+        "artists_id": [
+            "6tbjWDEIzxoDsBA1FuhfPW"
+        ],
+        "release_date": "2009-09-18"
+    },
+    {
+        "song": "No Woman No Cry",
+        "song_id": "5CAtxZrXETP2MhDKJHOICk",
+        "album": "Legend (Deluxe Edition)",
+        "artists": [
+            "Bob Marley & The Wailers"
+        ],
+        "artists_id": [
+            "2QsynagSdAqZj3U9HgDzjD"
+        ],
+        "release_date": "2001-02-22"
+    },
+    {
+        "song": "Maggie May",
+        "song_id": "6rovOdp3HgK1DeAMYDzoA7",
+        "album": "Every Picture Tells A Story",
+        "artists": [
+            "Rod Stewart"
+        ],
+        "artists_id": [
+            "2y8Jo9CKhJvtfeKOsYzRdT"
+        ],
+        "release_date": "1971-05-18"
+    },
+    {
+        "song": "He Stopped Loving Her Today",
+        "song_id": "6qMgx8ys4MNNxypaIvbG0i",
+        "album": "Super Hits",
+        "artists": [
+            "George Jones"
+        ],
+        "artists_id": [
+            "2OpqcUtj10HHvGG6h9VYC5"
+        ],
+        "release_date": "1987-01-01"
+    },
+    {
+        "song": "London Calling - Remastered",
+        "song_id": "5jzma6gCzYtKB1DbEwFZKH",
+        "album": "London Calling (Remastered)",
+        "artists": [
+            "The Clash"
+        ],
+        "artists_id": [
+            "3RGLhK1IP9jnYFH4BRFJBS"
+        ],
+        "release_date": "1979"
+    },
+    {
+        "song": "Jumpin' Jack Flash - Mono",
+        "song_id": "55LRDFmsuazr533WrtHHW9",
+        "album": "The Rolling Stones In Mono - Remastered 2016",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1966-01-01"
+    },
+    {
+        "song": "Ms. Jackson",
+        "song_id": "0I3q5fE6wg7LIfHGngUTnV",
+        "album": "Stankonia",
+        "artists": [
+            "Outkast"
+        ],
+        "artists_id": [
+            "1G9G7WwrXka3Z1r7aIDjI7"
+        ],
+        "release_date": "2000-10-31"
+    },
+    {
+        "song": "Fire and Rain",
+        "song_id": "1XUKItaRs2494LclJwHhl8",
+        "album": "Greatest Hits",
+        "artists": [
+            "James Taylor"
+        ],
+        "artists_id": [
+            "0vn7UBvSQECKJm2817Yf1P"
+        ],
+        "release_date": "1976"
+    },
+    {
+        "song": "Blueberry Hill - Non Stop Edit",
+        "song_id": "3B9VueMM1VPiOkW56KSRrB",
+        "album": "Legends Of Rock n' Roll",
+        "artists": [
+            "Fats Domino"
+        ],
+        "artists_id": [
+            "09C0xjtosNAIXP36wTnWxd"
+        ],
+        "release_date": "1962-01-01"
+    },
+    {
+        "song": "Kashmir - 1990 Remaster",
+        "song_id": "2nVHqZbOGkKWzlcy1aMbE7",
+        "album": "Physical Graffiti (1994 Remaster)",
+        "artists": [
+            "Led Zeppelin"
+        ],
+        "artists_id": [
+            "36QJpDe2go2KgaRleHCDTp"
+        ],
+        "release_date": "1975-02-24"
+    },
+    {
+        "song": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+        "song_id": "3gdewACMIVMEWVbyb8O9sY",
+        "album": "Honky Chateau",
+        "artists": [
+            "Elton John"
+        ],
+        "artists_id": [
+            "3PhoLpVuITZKcymswpck5b"
+        ],
+        "release_date": "1972-05-19"
+    },
+    {
+        "song": "Basket Case",
+        "song_id": "6L89mwZXSOwYl76YXfX13s",
+        "album": "Dookie",
+        "artists": [
+            "Green Day"
+        ],
+        "artists_id": [
+            "7oPftvlwr6VrsViSDV7fJY"
+        ],
+        "release_date": "1994-02-01"
+    },
+    {
+        "song": "Will You Love Me Tomorrow",
+        "song_id": "0bwy3sGHeYwng2Ioicq6wf",
+        "album": "Tonight's The Night",
+        "artists": [
+            "The Shirelles"
+        ],
+        "artists_id": [
+            "0x83OBqixqdCHnStP5VMcn"
+        ],
+        "release_date": "1961-01-01"
+    },
+    {
+        "song": "Proud Mary",
+        "song_id": "6pxWv6GV35VGmcPf5dh6CH",
+        "album": "Bayou Country (Expanded Edition)",
+        "artists": [
+            "Creedence Clearwater Revival"
+        ],
+        "artists_id": [
+            "3IYUhFvPQItj6xySrBmZkd"
+        ],
+        "release_date": "1969-01-05"
+    },
+    {
+        "song": "Super Freak",
+        "song_id": "2dCmGcEOQrMQhMMS8Vj7Ca",
+        "album": "Street Songs (Deluxe Edition)",
+        "artists": [
+            "Rick James"
+        ],
+        "artists_id": [
+            "0FrpdcVlJQqibaz5HfBUrL"
+        ],
+        "release_date": "1981-04-07"
+    },
+    {
+        "song": "Spoonful",
+        "song_id": "7j02rdE5RVtNcNMuLGY5SS",
+        "album": "Howlin' Wolf",
+        "artists": [
+            "Howlin' Wolf"
+        ],
+        "artists_id": [
+            "0Wxy5Qka8BN9crcFkiAxSR"
+        ],
+        "release_date": "1962-01-11"
+    },
+    {
+        "song": "Last Nite",
+        "song_id": "3SUusuA9jH1v6PVwtYMbdv",
+        "album": "Is This It",
+        "artists": [
+            "The Strokes"
+        ],
+        "artists_id": [
+            "0epOFNiUfyON9EYx7Tpr6V"
+        ],
+        "release_date": "2001-07-30"
+    },
+    {
+        "song": "Louie Louie",
+        "song_id": "0iA3xXSkSCiJywKyo1UKjQ",
+        "album": "The Best of The Kingsmen",
+        "artists": [
+            "The Kingsmen"
+        ],
+        "artists_id": [
+            "2iIn8H3l2NNBNHFpYKWbfo"
+        ],
+        "release_date": "2006-01-31"
+    },
+    {
+        "song": "Teen Age Riot (Album Version)",
+        "song_id": "0WIbzDVEpmOyBnqqdtqIL9",
+        "album": "Daydream Nation (Deluxe Edition)",
+        "artists": [
+            "Sonic Youth"
+        ],
+        "artists_id": [
+            "5UqTO8smerMvxHYA5xsXb6"
+        ],
+        "release_date": "1988-10-04"
+    },
+    {
+        "song": "Cissy Strut",
+        "song_id": "0WSlOSMLJWoWUpWci9nnRb",
+        "album": "The Meters",
+        "artists": [
+            "The Meters"
+        ],
+        "artists_id": [
+            "2JRvXPGWiINrnJljNJhG5s"
+        ],
+        "release_date": "1969"
+    },
+    {
+        "song": "Baba O'Riley",
+        "song_id": "3qiyyUfYe7CRYLucrPmulD",
+        "album": "Who's Next (Deluxe Edition)",
+        "artists": [
+            "The Who"
+        ],
+        "artists_id": [
+            "67ea9eGLXYMsO2eYQRui3w"
+        ],
+        "release_date": "1971-08-14"
+    },
+    {
+        "song": "Nightswimming",
+        "song_id": "6G0NzOx2jEPFsSmhr9N8Ys",
+        "album": "Automatic For The People",
+        "artists": [
+            "R.E.M."
+        ],
+        "artists_id": [
+            "4KWTAlx2RvbpseOGMEmROg"
+        ],
+        "release_date": "1992-10-05"
+    },
+    {
+        "song": "Into the Groove",
+        "song_id": "2m0M7YqCy4lXfedh18qd8N",
+        "album": "Celebration (double disc version)",
+        "artists": [
+            "Madonna"
+        ],
+        "artists_id": [
+            "6tbjWDEIzxoDsBA1FuhfPW"
+        ],
+        "release_date": "2009-09-18"
+    },
+    {
+        "song": "Pink Moon",
+        "song_id": "4KROoGIaPaR1pBHPnR3bwC",
+        "album": "Pink Moon",
+        "artists": [
+            "Nick Drake"
+        ],
+        "artists_id": [
+            "5c3GLXai8YOMid29ZEuR9y"
+        ],
+        "release_date": "1972-02-25"
+    },
+    {
+        "song": "Landslide",
+        "song_id": "5ihS6UUlyQAfmp48eSkxuQ",
+        "album": "Fleetwood Mac",
+        "artists": [
+            "Fleetwood Mac"
+        ],
+        "artists_id": [
+            "08GQAI4eElDnROBrJRGE0X"
+        ],
+        "release_date": "1975-07-11"
+    },
+    {
+        "song": "Mr. Tambourine Man",
+        "song_id": "3RkQ3UwOyPqpIiIvGVewuU",
+        "album": "Bringing It All Back Home",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1965-03-22"
+    },
+    {
+        "song": "I'm So Lonesome I Could Cry",
+        "song_id": "4tj7IsJrn4MvesuhoY0JBy",
+        "album": "The Legend Lives Anew (Hank Williams With Strings)",
+        "artists": [
+            "Hank Williams"
+        ],
+        "artists_id": [
+            "1FClsNYBUoNFtGgzeG74dW"
+        ],
+        "release_date": "1966-06-01"
+    },
+    {
+        "song": "All the Young Dudes",
+        "song_id": "0WNGPpmWqzPnk0psUhJ3SX",
+        "album": "All The Young Dudes (Expanded Edition)",
+        "artists": [
+            "Mott The Hoople"
+        ],
+        "artists_id": [
+            "6ysQi6NI88X627t2srsWz6"
+        ],
+        "release_date": "1972"
+    },
+    {
+        "song": "Lose Yourself",
+        "song_id": "5Z01UMMf7V1o0MzF86s6WJ",
+        "album": "Curtain Call: The Hits (Deluxe Edition)",
+        "artists": [
+            "Eminem"
+        ],
+        "artists_id": [
+            "7dGJo4pcD2V6oG8kP0tJRR"
+        ],
+        "release_date": "2005-12-06"
+    },
+    {
+        "song": "Son of a Preacher Man",
+        "song_id": "7odHgoLFi3GQ90E9PeraI3",
+        "album": "Dusty In Memphis [Deluxe Edition]",
+        "artists": [
+            "Dusty Springfield"
+        ],
+        "artists_id": [
+            "5zaXYwewAXedKNCff45U5l"
+        ],
+        "release_date": "1969-03-31"
+    },
+    {
+        "song": "American Girl",
+        "song_id": "7MRyJPksH3G2cXHN8UKYzP",
+        "album": "Tom Petty & The Heartbreakers",
+        "artists": [
+            "Tom Petty and the Heartbreakers"
+        ],
+        "artists_id": [
+            "4tX2TplrkIP4v05BNC903e"
+        ],
+        "release_date": "1976-11-09"
+    },
+    {
+        "song": "In The Still of the Night",
+        "song_id": "0GVvRmCoiLkhxJvlZy9bLk",
+        "album": "For Collectors Only",
+        "artists": [
+            "The Five Satins"
+        ],
+        "artists_id": [
+            "2YP02JRa1JLejrg3XTssJS"
+        ],
+        "release_date": "1993"
+    },
+    {
+        "song": "What A Wonderful World",
+        "song_id": "29U7stRjqHU6rMiS8BfaI9",
+        "album": "What A Wonderful World",
+        "artists": [
+            "Louis Armstrong"
+        ],
+        "artists_id": [
+            "19eLuQmk9aCobbVDHc6eek"
+        ],
+        "release_date": "1968-01-01"
+    },
+    {
+        "song": "Mississippi Goddam",
+        "song_id": "175Ef68hYgpfcm6zeKCH0L",
+        "album": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "artists": [
+            "Nina Simone"
+        ],
+        "artists_id": [
+            "7G1GBhoKtEPnP86X2PvEYO"
+        ],
+        "release_date": "1998-07-28"
+    },
+    {
+        "song": "Marquee Moon",
+        "song_id": "7Me0vOSlJfaPY7Pc4GeItd",
+        "album": "Marquee Moon",
+        "artists": [
+            "Television"
+        ],
+        "artists_id": [
+            "0S7Zur2g8YhqlzqtlYStli"
+        ],
+        "release_date": "1977-02-08"
+    },
+    {
+        "song": "Radio Free Europe",
+        "song_id": "46dGFTD918NMz1IP1rPJXO",
+        "album": "Murmur",
+        "artists": [
+            "R.E.M."
+        ],
+        "artists_id": [
+            "4KWTAlx2RvbpseOGMEmROg"
+        ],
+        "release_date": "1983-01-01"
+    },
+    {
+        "song": "I Only Have Eyes for You",
+        "song_id": "3YdKJzcoMZMacISlpY4QoP",
+        "album": "Flamingo Serenade",
+        "artists": [
+            "The Flamingos"
+        ],
+        "artists_id": [
+            "6iygtKnPG7TRvDaTYcLOd6"
+        ],
+        "release_date": "1959-08-11"
+    },
+    {
+        "song": "You Really Got Me",
+        "song_id": "29SyMC0plk6qw8NMF7lfRL",
+        "album": "Kinks (Deluxe)",
+        "artists": [
+            "The Kinks"
+        ],
+        "artists_id": [
+            "1SQRv42e4PjEYfPhS0Tk9E"
+        ],
+        "release_date": "1964-10-02"
+    },
+    {
+        "song": "Jump - 2015 Remaster",
+        "song_id": "7N3PAbqfTjSEU1edb2tY8j",
+        "album": "1984 (Remastered)",
+        "artists": [
+            "Van Halen"
+        ],
+        "artists_id": [
+            "2cnMpRsOVqtPMfq7YiFE6K"
+        ],
+        "release_date": "1984-01-04"
+    },
+    {
+        "song": "bad guy",
+        "song_id": "2Fxmhks0bxGSBdJ92vM42m",
+        "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "artists": [
+            "Billie Eilish"
+        ],
+        "artists_id": [
+            "6qqNVTkY8uBg9cP3Jd7DAH"
+        ],
+        "release_date": "2019-03-29"
+    },
+    {
+        "song": "Comfortably Numb",
+        "song_id": "5HNCy40Ni5BZJFw1TKzRsC",
+        "album": "The Wall",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "artists_id": [
+            "0k17h0D3J5VfsdmQ1iZtE9"
+        ],
+        "release_date": "1979-11-30"
+    },
+    {
+        "song": "Walk On the Wild Side",
+        "song_id": "5p3JunprHCxClJjOmcLV8G",
+        "album": "Transformer",
+        "artists": [
+            "Lou Reed"
+        ],
+        "artists_id": [
+            "42TFhl7WlMRXiNqzSrnzPL"
+        ],
+        "release_date": "1972-12-01"
+    },
+    {
+        "song": "Eight Miles High",
+        "song_id": "2BGNomqCxEDcXyxf8bg27k",
+        "album": "Fifth Dimension",
+        "artists": [
+            "The Byrds"
+        ],
+        "artists_id": [
+            "1PCZpxHJz7WAMF8EEq8bfc"
+        ],
+        "release_date": "1966-07-18"
+    },
+    {
+        "song": "The Sound of Silence - Acoustic Version",
+        "song_id": "5y788ya4NvwhBznoDIcXwK",
+        "album": "Wednesday Morning, 3 A.M.",
+        "artists": [
+            "Simon & Garfunkel"
+        ],
+        "artists_id": [
+            "70cRZdQywnSFp9pnc2WTCE"
+        ],
+        "release_date": "1964-10-19"
+    },
+    {
+        "song": "You Are The Sunshine Of My Life",
+        "song_id": "0n2pjCIMKwHSXoYfEbYMfX",
+        "album": "Talking Book",
+        "artists": [
+            "Stevie Wonder"
+        ],
+        "artists_id": [
+            "7guDJrEfX3qb6FEbdPA5qi"
+        ],
+        "release_date": "1972-10-28"
+    },
+    {
+        "song": "Nothing Compares 2 U",
+        "song_id": "3nvuPQTw2zuFAVuLsC9IYQ",
+        "album": "I Do Not Want What I Haven't Got",
+        "artists": [
+            "Sin\u00e9ad O'Connor"
+        ],
+        "artists_id": [
+            "4sD9znwiVFx9cgRPZ42aQ1"
+        ],
+        "release_date": "1990-07-01"
+    },
+    {
+        "song": "Beat It",
+        "song_id": "52xaypL0Kjzk0ngwv3oBPR",
+        "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "artists": [
+            "Michael Jackson"
+        ],
+        "artists_id": [
+            "3fMbdgg4jU18AjLCKBhRSm"
+        ],
+        "release_date": "1995-06-16"
+    },
+    {
+        "song": "I'll Take You There",
+        "song_id": "5YLnfy7R2kueN0BRPkjiEG",
+        "album": "The Very Best Of The Staple Singers",
+        "artists": [
+            "The Staple Singers"
+        ],
+        "artists_id": [
+            "7xGGqA85UIWX1GoTVM4itC"
+        ],
+        "release_date": "2007-01-01"
+    },
+    {
+        "song": "Subterranean Homesick Blues",
+        "song_id": "6k9DUKMJpWvu6eFG3O64Lg",
+        "album": "Bringing It All Back Home",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1965-03-22"
+    },
+    {
+        "song": "Little Wing",
+        "song_id": "1Eolhana7nKHYpcYpdVcT5",
+        "album": "Axis: Bold As Love",
+        "artists": [
+            "Jimi Hendrix"
+        ],
+        "artists_id": [
+            "776Uo845nYHJpNaStv1Ds4"
+        ],
+        "release_date": "1967-12-01"
+    },
+    {
+        "song": "Space Oddity - 2015 Remaster",
+        "song_id": "72Z17vmmeQKAg8bptWvpVG",
+        "album": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "artists": [
+            "David Bowie"
+        ],
+        "artists_id": [
+            "0oSGxfWSnnOXhD2fKuz2Gy"
+        ],
+        "release_date": "1969-11-04"
+    },
+    {
+        "song": "Fuck Tha Police",
+        "song_id": "5n8Aro6j1bEGIy7Tpo7FV7",
+        "album": "Straight Outta Compton",
+        "artists": [
+            "N.W.A."
+        ],
+        "artists_id": [
+            "4EnEZVjo3w1cwcQYePccay"
+        ],
+        "release_date": "1988-08-08"
+    },
+    {
+        "song": "Ode To Billie Joe",
+        "song_id": "4FdDorlbJTVHcH3djLbIfn",
+        "album": "Ode To Billie Joe",
+        "artists": [
+            "Bobbie Gentry"
+        ],
+        "artists_id": [
+            "4E9w0bms6HcEppFlWjeW2d"
+        ],
+        "release_date": "1967-08-21"
+    },
+    {
+        "song": "Mind Playing Tricks on Me",
+        "song_id": "63BokRfXSQhEU6Qi2dSJpZ",
+        "album": "We Can't Be Stopped",
+        "artists": [
+            "Geto Boys"
+        ],
+        "artists_id": [
+            "3f5fB1YUbkUnW7cf7I0R48"
+        ],
+        "release_date": "1991-07-02"
+    },
+    {
+        "song": "Wild Horses - 2009 Mix",
+        "song_id": "52dm9op3rbfAkc1LGXgipW",
+        "album": "Sticky Fingers (Remastered)",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1971-04-23"
+    },
+    {
+        "song": "Rid Of Me",
+        "song_id": "3m2Zd230K68bC4Qe961d9p",
+        "album": "Rid Of Me",
+        "artists": [
+            "PJ Harvey"
+        ],
+        "artists_id": [
+            "12VaqyEhgwDRuFfEqbnrpz"
+        ],
+        "release_date": "1993-01-01"
+    },
+    {
+        "song": "Crazy - Single Version",
+        "song_id": "42fKW5Jhj97tj0TwE1pK8u",
+        "album": "Showcase",
+        "artists": [
+            "Patsy Cline",
+            "The Jordanaires"
+        ],
+        "artists_id": [
+            "7dNsHhGeGU5MV01r06O8gK",
+            "6CXezToiGS8K6jr9kr8Muv"
+        ],
+        "release_date": "1963-01-01"
+    },
+    {
+        "song": "Get Up (I Feel Like Being A) Sex Machine - Pt. 1 & 2",
+        "song_id": "7tMCIOFe99cWEYr21wfsDp",
+        "album": "20 All-Time Greatest Hits!",
+        "artists": [
+            "James Brown"
+        ],
+        "artists_id": [
+            "7GaxyUddsPok8BuhxN6OUW"
+        ],
+        "release_date": "1991"
+    },
+    {
+        "song": "I Can't Stand the Rain",
+        "song_id": "0CcL4kSHKIEwF3IW0BGgb6",
+        "album": "I Can't Stand the Rain",
+        "artists": [
+            "Ann Peebles"
+        ],
+        "artists_id": [
+            "5dM7jA0PXh0Ozz8LT2YOCB"
+        ],
+        "release_date": "1974-06-11"
+    },
+    {
+        "song": "Sexual Healing",
+        "song_id": "3VZmChrnVW8JK6ano4gSED",
+        "album": "Midnight Love",
+        "artists": [
+            "Marvin Gaye"
+        ],
+        "artists_id": [
+            "3koiLjNrgRTNbOwViDipeA"
+        ],
+        "release_date": "1982-10-01"
+    },
+    {
+        "song": "Dream On",
+        "song_id": "5MxNLUsfh7uzROypsoO5qe",
+        "album": "Aerosmith",
+        "artists": [
+            "Aerosmith"
+        ],
+        "artists_id": [
+            "7Ey4PD4MYsKc5I2dolUwbH"
+        ],
+        "release_date": "1973-01-05"
+    },
+    {
+        "song": "Changes - 2015 Remaster",
+        "song_id": "0LrwgdLsFaWh9VXIjBRe8t",
+        "album": "Hunky Dory (2015 Remaster)",
+        "artists": [
+            "David Bowie"
+        ],
+        "artists_id": [
+            "0oSGxfWSnnOXhD2fKuz2Gy"
+        ],
+        "release_date": "1971-12-17"
+    },
+    {
+        "song": "Ring of Fire",
+        "song_id": "5rDkA2TFOImbiVenmnE9r4",
+        "album": "The Essential Johnny Cash",
+        "artists": [
+            "Johnny Cash"
+        ],
+        "artists_id": [
+            "6kACVPfCOnqzgfEF5ryl0x"
+        ],
+        "release_date": "2002-02-12"
+    },
+    {
+        "song": "Your Song - Remastered",
+        "song_id": "2bUXfclD8DwJwwUENtSCWu",
+        "album": "Diamonds (Deluxe)",
+        "artists": [
+            "Elton John"
+        ],
+        "artists_id": [
+            "3PhoLpVuITZKcymswpck5b"
+        ],
+        "release_date": "2017-11-10"
+    },
+    {
+        "song": "Signed, Sealed, Delivered (I'm Yours)",
+        "song_id": "2eF8pWbiivYsYRpbntYsnc",
+        "album": "Signed, Sealed And Delivered",
+        "artists": [
+            "Stevie Wonder"
+        ],
+        "artists_id": [
+            "7guDJrEfX3qb6FEbdPA5qi"
+        ],
+        "release_date": "1970-08-07"
+    },
+    {
+        "song": "Young Americans - 2016 Remaster",
+        "song_id": "7uPmQttafLiJyju14JREY4",
+        "album": "Young Americans - 2016 Remaster",
+        "artists": [
+            "David Bowie"
+        ],
+        "artists_id": [
+            "0oSGxfWSnnOXhD2fKuz2Gy"
+        ],
+        "release_date": "1975-03-07"
+    },
+    {
+        "song": "...Baby One More Time",
+        "song_id": "3MjUtNVVq3C8Fn0MP3zhXa",
+        "album": "...Baby One More Time (Digital Deluxe Version)",
+        "artists": [
+            "Britney Spears"
+        ],
+        "artists_id": [
+            "26dSoYclwsYLMAKD3tpOr4"
+        ],
+        "release_date": "1999-01-12"
+    },
+    {
+        "song": "Wichita Lineman - Remastered 2001",
+        "song_id": "6V9VCm1zOY2lGR80RehJ9i",
+        "album": "Wichita Lineman (Remastered)",
+        "artists": [
+            "Glen Campbell"
+        ],
+        "artists_id": [
+            "59hLmB5DrdihCYtNeFeW1U"
+        ],
+        "release_date": "1968"
+    },
+    {
+        "song": "Killing In The Name",
+        "song_id": "59WN2psjkt1tyaxjspN8fp",
+        "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "artists": [
+            "Rage Against The Machine"
+        ],
+        "artists_id": [
+            "2d0hyoQ5ynDBnkvAbJKORj"
+        ],
+        "release_date": "1992"
+    },
+    {
+        "song": "Doll Parts",
+        "song_id": "49t1GWE6ZiEoBgN92oMDdM",
+        "album": "Live Through This",
+        "artists": [
+            "Hole"
+        ],
+        "artists_id": [
+            "5SHQUMAmEK5KmuSb0aDvsn"
+        ],
+        "release_date": "1994-01-01"
+    },
+    {
+        "song": "The Boys Of Summer",
+        "song_id": "4gvea7UlDkAvsJBPZAd4oB",
+        "album": "Building The Perfect Beast",
+        "artists": [
+            "Don Henley"
+        ],
+        "artists_id": [
+            "5dbuFbrHa1SJlQhQX9OUJ2"
+        ],
+        "release_date": "1984-11-19"
+    },
+    {
+        "song": "One Nation Under a Groove",
+        "song_id": "2nqpN3cSmL0tTlJ724fE2a",
+        "album": "Young Soul Rebels (Original Soundtrack) [Digitally Remastered]",
+        "artists": [
+            "Funkadelic"
+        ],
+        "artists_id": [
+            "450o9jw6AtiQlQkHCdH6Ru"
+        ],
+        "release_date": "2015-05-05"
+    },
+    {
+        "song": "With Or Without You",
+        "song_id": "6ADSaE87h8Y3lccZlBJdXH",
+        "album": "The Joshua Tree (Super Deluxe)",
+        "artists": [
+            "U2"
+        ],
+        "artists_id": [
+            "51Blml2LZPmy7TTiAg47vQ"
+        ],
+        "release_date": "1987-03-03"
+    },
+    {
+        "song": "More Than a Feeling",
+        "song_id": "1QEEqeFIZktqIpPI4jSVSF",
+        "album": "Boston",
+        "artists": [
+            "Boston"
+        ],
+        "artists_id": [
+            "29kkCKKGXheHuoO829FxWK"
+        ],
+        "release_date": "1976"
+    },
+    {
+        "song": "Paint It, Black",
+        "song_id": "63T7DJ1AFDD6Bn8VzG6JE8",
+        "album": "Aftermath",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "artists_id": [
+            "22bE4uQ6baNwSHPVcDxLCe"
+        ],
+        "release_date": "1966-04-15"
+    },
+    {
+        "song": "Deacon Blues",
+        "song_id": "61AK5ICbKk20h1dFS3mXuu",
+        "album": "Aja",
+        "artists": [
+            "Steely Dan"
+        ],
+        "artists_id": [
+            "6P7H3ai06vU1sGvdpBwDmE"
+        ],
+        "release_date": "1977-01-01"
+    },
+    {
+        "song": "Shook Ones, Pt. II",
+        "song_id": "33ZXjLCpiINn8eQIDYEPTD",
+        "album": "The Infamous",
+        "artists": [
+            "Mobb Deep"
+        ],
+        "artists_id": [
+            "6O2zJ0tId7g07yzHtX0yap"
+        ],
+        "release_date": "1995-04-25"
+    },
+    {
+        "song": "Jailhouse Rock",
+        "song_id": "4gphxUgq0JSFv2BCLhNDiE",
+        "album": "Elvis' Golden Records",
+        "artists": [
+            "Elvis Presley"
+        ],
+        "artists_id": [
+            "43ZHCT0cAZBISjO8DG9PnE"
+        ],
+        "release_date": "1958-03-21"
+    },
+    {
+        "song": "Edge of Seventeen",
+        "song_id": "2id8E4WvczfKHB4LHI7Np3",
+        "album": "Crystal Visions...The Very Best of Stevie Nicks",
+        "artists": [
+            "Stevie Nicks"
+        ],
+        "artists_id": [
+            "7crPfGd2k81ekOoSqQKWWz"
+        ],
+        "release_date": "2007-03-27"
+    },
+    {
+        "song": "In the Midnight Hour",
+        "song_id": "4NRQwaks9r58tTDvr4iEyv",
+        "album": "In the Midnight Hour",
+        "artists": [
+            "Wilson Pickett"
+        ],
+        "artists_id": [
+            "0N5PyKJzS3M1XNlaCL7bbE"
+        ],
+        "release_date": "1965"
+    },
+    {
+        "song": "Free Fallin'",
+        "song_id": "5tVA6TkbaAH9QMITTQRrNv",
+        "album": "Full Moon Fever",
+        "artists": [
+            "Tom Petty"
+        ],
+        "artists_id": [
+            "2UZMlIwnkgAEDBsw1Rejkn"
+        ],
+        "release_date": "1989-01-01"
+    },
+    {
+        "song": "Bizarre Love Triangle",
+        "song_id": "6wVViUl2xSRoDK2T7dMZbR",
+        "album": "Brotherhood (Collector's Edition)",
+        "artists": [
+            "New Order"
+        ],
+        "artists_id": [
+            "0yNLKJebCb8Aueb54LYya3"
+        ],
+        "release_date": "1986-09-29"
+    },
+    {
+        "song": "River Deep - Mountain High",
+        "song_id": "19jo0UT2vqD4pNVfIqTy4R",
+        "album": "Tina!",
+        "artists": [
+            "Ike & Tina Turner"
+        ],
+        "artists_id": [
+            "1ZikppG9dPedbIgMfnfx8k"
+        ],
+        "release_date": "2008-09-30"
+    },
+    {
+        "song": "Suite: Judy Blue Eyes - 2005 Remaster",
+        "song_id": "2PuUFT13yCzUOZun94WOXv",
+        "album": "Crosby, Stills & Nash",
+        "artists": [
+            "Crosby, Stills & Nash"
+        ],
+        "artists_id": [
+            "2pdvghEHZJtgSXZ7cvNLou"
+        ],
+        "release_date": "1969-05-29"
+    },
+    {
+        "song": "Stan",
+        "song_id": "3UmaczJpikHgJFyBTAJVoz",
+        "album": "The Marshall Mathers LP",
+        "artists": [
+            "Eminem",
+            "Dido"
+        ],
+        "artists_id": [
+            "7dGJo4pcD2V6oG8kP0tJRR",
+            "2mpeljBig2IXLXRAFO9AAs"
+        ],
+        "release_date": "2000-05-23"
+    },
+    {
+        "song": "Layla - 40th Anniversary Version / 2010 Remastered",
+        "song_id": "3k9i7UzeSUYWIfUZFeFDUd",
+        "album": "Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered)",
+        "artists": [
+            "Derek & The Dominos"
+        ],
+        "artists_id": [
+            "2rc78XDH9zuJP6bm78lU8Z"
+        ],
+        "release_date": "1970-11-01"
+    },
+    {
+        "song": "Both Sides Now",
+        "song_id": "2xSfwtV4mUr2h63Q1zJH58",
+        "album": "Wildflowers",
+        "artists": [
+            "Judy Collins"
+        ],
+        "artists_id": [
+            "5yzE49FicYiSxN61oaxkNn"
+        ],
+        "release_date": "1967"
+    },
+    {
+        "song": "There Is a Light That Never Goes Out - 2011 Remaster",
+        "song_id": "0WQiDwKJclirSYG9v5tayI",
+        "album": "The Queen Is Dead",
+        "artists": [
+            "The Smiths"
+        ],
+        "artists_id": [
+            "3yY2gUcIsjMr8hjo51PoJ8"
+        ],
+        "release_date": "1986-06-16"
+    },
+    {
+        "song": "Fortunate Son",
+        "song_id": "4BP3uh0hFLFRb5cjsgLqDh",
+        "album": "Willy And The Poor Boys (Expanded Edition)",
+        "artists": [
+            "Creedence Clearwater Revival"
+        ],
+        "artists_id": [
+            "3IYUhFvPQItj6xySrBmZkd"
+        ],
+        "release_date": "1969-11-02"
+    },
+    {
+        "song": "Single Ladies (Put a Ring on It)",
+        "song_id": "5R9a4t5t5O0IsznsrKPVro",
+        "album": "I AM...SASHA FIERCE",
+        "artists": [
+            "Beyonc\u00e9"
+        ],
+        "artists_id": [
+            "6vWDO969PvNqNYHIOW5v0m"
+        ],
+        "release_date": "2008-11-17"
+    },
+    {
+        "song": "This Land is Your Land",
+        "song_id": "3ZjrfGcb3A2PMGA1vRNgSk",
+        "album": "This Land is Your Land: The Asch Recordings, Vol. 1",
+        "artists": [
+            "Woody Guthrie"
+        ],
+        "artists_id": [
+            "4rAgFKtlTr66ic18YZZyF1"
+        ],
+        "release_date": "1997-02-18"
+    },
+    {
+        "song": "Mr. Tambourine Man",
+        "song_id": "2S8TXMoinwzM1Opht2bK5g",
+        "album": "Mr. Tambourine Man",
+        "artists": [
+            "The Byrds"
+        ],
+        "artists_id": [
+            "1PCZpxHJz7WAMF8EEq8bfc"
+        ],
+        "release_date": "1965-06-21"
+    },
+    {
+        "song": "I Wanna Dance with Somebody (Who Loves Me)",
+        "song_id": "2tUBqZG2AbRi7Q0BIrVrEj",
+        "album": "Whitney",
+        "artists": [
+            "Whitney Houston"
+        ],
+        "artists_id": [
+            "6XpaIBNiVzIetEPCWDvAFP"
+        ],
+        "release_date": "1987-06-02"
+    },
+    {
+        "song": "My Generation - Stereo Version",
+        "song_id": "6awTbDHgM907tGecNQYPaV",
+        "album": "My Generation",
+        "artists": [
+            "The Who"
+        ],
+        "artists_id": [
+            "67ea9eGLXYMsO2eYQRui3w"
+        ],
+        "release_date": "1965-12-03"
+    },
+    {
+        "song": "Groove Is in the Heart",
+        "song_id": "2He3NOyqtLNE3RQPpeDdSb",
+        "album": "World Clique",
+        "artists": [
+            "Deee-Lite"
+        ],
+        "artists_id": [
+            "4eQJIXFEujzhTVVS1gIfu5"
+        ],
+        "release_date": "1990-08-07"
+    },
+    {
+        "song": "You Keep Me Hangin' On",
+        "song_id": "4a01ClusxuZiloOK5UgLUn",
+        "album": "The Supremes Sing Holland, Dozier, Holland",
+        "artists": [
+            "The Supremes"
+        ],
+        "artists_id": [
+            "57bUPid8xztkieZfS7OlEV"
+        ],
+        "release_date": "1967-01-23"
+    },
+    {
+        "song": "Blue Monday",
+        "song_id": "6hHc7Pks7wtBIW8Z6A0iFq",
+        "album": "Substance",
+        "artists": [
+            "New Order"
+        ],
+        "artists_id": [
+            "0yNLKJebCb8Aueb54LYya3"
+        ],
+        "release_date": "1987-08-17"
+    },
+    {
+        "song": "Lean on Me",
+        "song_id": "3M8FzayQWtkvOhqMn2V4T2",
+        "album": "Still Bill",
+        "artists": [
+            "Bill Withers"
+        ],
+        "artists_id": [
+            "1ThoqLcyIYvZn7iWbj8fsj"
+        ],
+        "release_date": "1972-05-01"
+    },
+    {
+        "song": "Your Cheatin' Heart",
+        "song_id": "3IK25HIyoNVGUfHgfaXgEU",
+        "album": "The Original Singles Collection . . . Plus",
+        "artists": [
+            "Hank Williams"
+        ],
+        "artists_id": [
+            "1FClsNYBUoNFtGgzeG74dW"
+        ],
+        "release_date": "1992-01-01"
+    },
+    {
+        "song": "Are You That Somebody",
+        "song_id": "1sSuFkO3m3Cr6YN24NYol5",
+        "album": "Are You That Somebody",
+        "artists": [
+            "Aaliyah"
+        ],
+        "artists_id": [
+            "0urTpYCsixqZwgNTkPJOJ4"
+        ],
+        "release_date": "1998-06-16"
+    },
+    {
+        "song": "September Gurls",
+        "song_id": "731zWsKI2KvdBPO5MWdjSy",
+        "album": "#1 Record/Radio City",
+        "artists": [
+            "Big Star"
+        ],
+        "artists_id": [
+            "3UvcmAOZt64oKpP95f6MMM"
+        ],
+        "release_date": "1992"
+    },
+    {
+        "song": "I Want It That Way",
+        "song_id": "47BBI51FKFwOMlIiX6m8ya",
+        "album": "Millennium",
+        "artists": [
+            "Backstreet Boys"
+        ],
+        "artists_id": [
+            "5rSXSAkZ67PYJSvpUpkOr7"
+        ],
+        "release_date": "1999-05-18"
+    },
+    {
+        "song": "The Humpty Dance",
+        "song_id": "0YEC3pNS0uIKvZb5u4lgsu",
+        "album": "Sex Packets",
+        "artists": [
+            "Digital Underground"
+        ],
+        "artists_id": [
+            "7jocoSCuCtpCxCI6IbP8ye"
+        ],
+        "release_date": "1990-03-26"
+    },
+    {
+        "song": "Great Balls of Fire",
+        "song_id": "7xe3EQCvXnx6Q0zs41Y65n",
+        "album": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "artists": [
+            "Jerry Lee Lewis"
+        ],
+        "artists_id": [
+            "2zyz0VJqrDXeFDIyrfVXSo"
+        ],
+        "release_date": "2013-05-10"
+    },
+    {
+        "song": "Eleanor Rigby - Remastered 2009",
+        "song_id": "5GjPQ0eI7AgmOnADn1EO6Q",
+        "album": "Revolver (Remastered)",
+        "artists": [
+            "The Beatles"
+        ],
+        "artists_id": [
+            "3WrFJ7ztbogyGnTHbHJFl2"
+        ],
+        "release_date": "1966-08-05"
+    },
+    {
+        "song": "Summer Babe (Winter Version)",
+        "song_id": "1VfgWgELCIpe9pB3cLuDnJ",
+        "album": "Slanted & Enchanted",
+        "artists": [
+            "Pavement"
+        ],
+        "artists_id": [
+            "3inCNiUr4R6XQ3W43s9Aqi"
+        ],
+        "release_date": "1992-04-20"
+    },
+    {
+        "song": "Sabotage",
+        "song_id": "0Puj4YlTm6xNzDDADXHMI9",
+        "album": "Ill Communication",
+        "artists": [
+            "Beastie Boys"
+        ],
+        "artists_id": [
+            "03r4iKL2g2442PT9n2UKsx"
+        ],
+        "release_date": "1994-05-23"
+    },
+    {
+        "song": "Ooh La La",
+        "song_id": "4lJ6YVXQ0jUk5ILu0PSrA4",
+        "album": "Ooh La La",
+        "artists": [
+            "Faces"
+        ],
+        "artists_id": [
+            "3v4feUQnU3VEUqFrjmtekL"
+        ],
+        "release_date": "1973"
+    },
+    {
+        "song": "River",
+        "song_id": "1ygVwxm34930HJ99sgddI6",
+        "album": "The Pythiad",
+        "artists": [
+            "Joni Mitchell",
+            "Jim Gailloreto's Jazz String Quartet"
+        ],
+        "artists_id": [
+            "5hW4L92KnC6dX9t7tYM4Ve",
+            "6eqdqimRMAfPM3T6qpHftA"
+        ],
+        "release_date": "2017-08-18"
+    },
+    {
+        "song": "Straight Outta Compton",
+        "song_id": "6KIKRz9eSTXdNsGUnomdtW",
+        "album": "Straight Outta Compton",
+        "artists": [
+            "N.W.A."
+        ],
+        "artists_id": [
+            "4EnEZVjo3w1cwcQYePccay"
+        ],
+        "release_date": "1988-08-08"
+    },
+    {
+        "song": "Bad Reputation",
+        "song_id": "7pu8AhGUxHZSCWTkQ2eb5M",
+        "album": "Bad Reputation (Expanded Edition)",
+        "artists": [
+            "Joan Jett & the Blackhearts"
+        ],
+        "artists_id": [
+            "1Fmb52lZ6Jv7FMWXXTPO3K"
+        ],
+        "release_date": "1981-01-23"
+    },
+    {
+        "song": "Purple Haze",
+        "song_id": "20US4JIykUvnFpxMXp0lWv",
+        "album": "Are You Experienced",
+        "artists": [
+            "Jimi Hendrix"
+        ],
+        "artists_id": [
+            "776Uo845nYHJpNaStv1Ds4"
+        ],
+        "release_date": "1967-05-12"
+    },
+    {
+        "song": "I Will Survive - Single Version",
+        "song_id": "7cv28LXcjAC3GsXbUvXKbX",
+        "album": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
+        "artists": [
+            "Gloria Gaynor"
+        ],
+        "artists_id": [
+            "6V6WCgi7waF55bJmylC4H5"
+        ],
+        "release_date": "2000-01-01"
+    },
+    {
+        "song": "Flash Light",
+        "song_id": "1v1PV2wERHiMPesMWX0qmO",
+        "album": "Funkentelechy Vs. The Placebo Syndrome",
+        "artists": [
+            "Parliament"
+        ],
+        "artists_id": [
+            "5SMVzTJyKFJ7TUb46DglcH"
+        ],
+        "release_date": "1977-11-28"
+    },
+    {
+        "song": "Blue Eyes Crying In the Rain",
+        "song_id": "2uRVPeQbsEpRQD0DKr1WTo",
+        "album": "Red Headed Stranger",
+        "artists": [
+            "Willie Nelson"
+        ],
+        "artists_id": [
+            "5W5bDNCqJ1jbCgTxDD0Cb3"
+        ],
+        "release_date": "1975-05-01"
+    },
+    {
+        "song": "Stop! In The Name Of Love",
+        "song_id": "52FlwUMMDnTK8TGkCag9Jd",
+        "album": "More Hits By The Supremes",
+        "artists": [
+            "The Supremes"
+        ],
+        "artists_id": [
+            "57bUPid8xztkieZfS7OlEV"
+        ],
+        "release_date": "1965-07-23"
+    },
+    {
+        "song": "Coal Miner's Daughter",
+        "song_id": "30m1G9YyiwQzFG7QvAZzHE",
+        "album": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "artists": [
+            "Loretta Lynn"
+        ],
+        "artists_id": [
+            "1FE0rls8gfQT3laAeRYNgl"
+        ],
+        "release_date": "1994-09-13"
+    },
+    {
+        "song": "Master of Puppets (Remastered)",
+        "song_id": "54bm2e3tk8cliUz3VSdCPZ",
+        "album": "Master of Puppets (Remastered Deluxe Box Set)",
+        "artists": [
+            "Metallica"
+        ],
+        "artists_id": [
+            "2ye2Wgw4gimLv2eAKyk1NB"
+        ],
+        "release_date": "1986-03-03"
+    },
+    {
+        "song": "(Love Is Like A) Heat Wave",
+        "song_id": "3VgrSJEKBRT3xmwzpaxxEF",
+        "album": "Heat Wave",
+        "artists": [
+            "Martha Reeves & The Vandellas"
+        ],
+        "artists_id": [
+            "1Pe5hlKMCTULjosqZ6KanP"
+        ],
+        "release_date": "1963"
+    },
+    {
+        "song": "The Revolution Will Not Be Televised",
+        "song_id": "7ni78Vjslqo2VxiDOahYlV",
+        "album": "Pieces of a Man",
+        "artists": [
+            "Gil Scott-Heron"
+        ],
+        "artists_id": [
+            "0kEfub5RzlZOB2zGomqVSU"
+        ],
+        "release_date": "1971-01-01"
+    },
+    {
+        "song": "Heart of Gold - 2009 Remaster",
+        "song_id": "1Q1b8eVkUPGlpSArl8JAVw",
+        "album": "Harvest (2009 Remaster)",
+        "artists": [
+            "Neil Young"
+        ],
+        "artists_id": [
+            "6v8FB84lnmJs434UJf2Mrm"
+        ],
+        "release_date": "1972-02-14"
+    },
+    {
+        "song": "Get Up, Stand Up",
+        "song_id": "5MVW8uIuNuL7CQ0RyyogHI",
+        "album": "Burnin' (Deluxe Edition)",
+        "artists": [
+            "Bob Marley & The Wailers"
+        ],
+        "artists_id": [
+            "2QsynagSdAqZj3U9HgDzjD"
+        ],
+        "release_date": "1973-10-19"
+    },
+    {
+        "song": "Pusherman",
+        "song_id": "7zrPswSV1yxrill5OyCuaU",
+        "album": "Superfly: Deluxe 25th Anniversary Edition",
+        "artists": [
+            "Curtis Mayfield"
+        ],
+        "artists_id": [
+            "2AV6XDIs32ofIJhkkDevjm"
+        ],
+        "release_date": "1972-07-01"
+    },
+    {
+        "song": "American Tune",
+        "song_id": "3g3xDtGtU0asKw6iYCYiG5",
+        "album": "There Goes Rhymin' Simon",
+        "artists": [
+            "Paul Simon"
+        ],
+        "artists_id": [
+            "2CvCyf1gEVhI0mX6aFXmVI"
+        ],
+        "release_date": "1973-05-05"
+    },
+    {
+        "song": "Coat of Many Colors",
+        "song_id": "1l2Xmg54EUr3TDzNIaCr1z",
+        "album": "Coat Of Many Colors",
+        "artists": [
+            "Dolly Parton"
+        ],
+        "artists_id": [
+            "32vWCbZh0xZ4o9gkz4PsEU"
+        ],
+        "release_date": "1971"
+    },
+    {
+        "song": "Let's Get It On",
+        "song_id": "39l1UORIhuHvUWfxG53tRZ",
+        "album": "Let's Get It On (Deluxe Edition)",
+        "artists": [
+            "Marvin Gaye"
+        ],
+        "artists_id": [
+            "3koiLjNrgRTNbOwViDipeA"
+        ],
+        "release_date": "1973-08-28"
+    },
+    {
+        "song": "Left of the Dial - 2008 Remaster",
+        "song_id": "7nL0nuLhX6ItOoEq9RpkOO",
+        "album": "Tim (Expanded)",
+        "artists": [
+            "The Replacements"
+        ],
+        "artists_id": [
+            "4WPY0N74T3KUja57xMQTZ3"
+        ],
+        "release_date": "1985"
+    },
+    {
+        "song": "King Tubby Meets Rockers Uptown",
+        "song_id": "38gBmRO7BNAgPz35WFgZkl",
+        "album": "King Tubbys Meets Rockers Uptown",
+        "artists": [
+            "King Tubby",
+            "Augustus Pablo"
+        ],
+        "artists_id": [
+            "1AMMMSq3rJdZtFGnBXEkz7",
+            "5WwEQwX3ruZofwDDqtOXwI"
+        ],
+        "release_date": "1976-07-07"
+    },
+    {
+        "song": "Kill Bill",
+        "song_id": "3OHfY25tqY28d16oZczHc8",
+        "album": "SOS",
+        "artists": [
+            "SZA"
+        ],
+        "artists_id": [
+            "7tYKF4w9nC0nq9CsPZTHyP"
+        ],
+        "release_date": "2022-12-09"
+    },
+    {
+        "song": "Shout, Pts. 1 & 2",
+        "song_id": "5TUa3AsgSh3kJIuXn42wig",
+        "album": "It's Your Thing: The Story Of The Isley Brothers",
+        "artists": [
+            "The Isley Brothers"
+        ],
+        "artists_id": [
+            "53QzNeFpzAaXYnrDBbDrIp"
+        ],
+        "release_date": "1999"
+    },
+    {
+        "song": "Unchained Melody",
+        "song_id": "1jFhnVoJkcB4lf9tT0rSZS",
+        "album": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "artists": [
+            "The Righteous Brothers"
+        ],
+        "artists_id": [
+            "4b0WsB47XCa9F83BmwQ7WX"
+        ],
+        "release_date": "1990"
+    },
+    {
+        "song": "Closer",
+        "song_id": "2oDqmfa2g8W893LlwJG1qu",
+        "album": "The Downward Spiral",
+        "artists": [
+            "Nine Inch Nails"
+        ],
+        "artists_id": [
+            "0X380XXQSNBYuleKzav5UO"
+        ],
+        "release_date": "1994-03-08"
+    },
+    {
+        "song": "A Whiter Shade of Pale - Original Single Version",
+        "song_id": "78ZqE2tjAxbqEGGlvGnQfT",
+        "album": "Hits'n'Flips",
+        "artists": [
+            "Procol Harum"
+        ],
+        "artists_id": [
+            "0GbqW5TJr7n4is453VOY4C"
+        ],
+        "release_date": "2019-05-03"
+    },
+    {
+        "song": "The Boys Are Back In Town",
+        "song_id": "43DeSV93pJPT4lCZaWZ6b1",
+        "album": "Jailbreak (Deluxe Edition)",
+        "artists": [
+            "Thin Lizzy"
+        ],
+        "artists_id": [
+            "6biWAmrHyiMkX49LkycGqQ"
+        ],
+        "release_date": "1976"
+    },
+    {
+        "song": "Killing Me Softly With His Song",
+        "song_id": "3gsCAGsWr6pUm1Vy7CPPob",
+        "album": "Killing Me Softly",
+        "artists": [
+            "Roberta Flack"
+        ],
+        "artists_id": [
+            "0W498bDDNlJIrYMKXdpLHA"
+        ],
+        "release_date": "1973-01-01"
+    },
+    {
+        "song": "Love and Happiness",
+        "song_id": "6SMHgPgNkhe9lneNTbgtel",
+        "album": "I'm Still in Love with You",
+        "artists": [
+            "Al Green"
+        ],
+        "artists_id": [
+            "3dkbV4qihUeMsqN4vBGg93"
+        ],
+        "release_date": "1972-10-23"
+    },
+    {
+        "song": "Sail Away - 2002 Remaster",
+        "song_id": "79zQv3SsEOmyPAgUP4YDjz",
+        "album": "Sail Away (Expanded & Remastered Edition)",
+        "artists": [
+            "Randy Newman"
+        ],
+        "artists_id": [
+            "3HQyFCFFfJO3KKBlUfZsyW"
+        ],
+        "release_date": "1972-05-01"
+    },
+    {
+        "song": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+        "song_id": "5YUJMvTg4AWHKjqQidTsGK",
+        "album": "Love Bites",
+        "artists": [
+            "Buzzcocks"
+        ],
+        "artists_id": [
+            "2DxlS3lTLFIq70S7ap5H3y"
+        ],
+        "release_date": "1978"
+    },
+    {
+        "song": "Bo Diddley",
+        "song_id": "2KLQS8bGeVRxm3e0OrDOTB",
+        "album": "Bo Diddley",
+        "artists": [
+            "Bo Diddley"
+        ],
+        "artists_id": [
+            "2bmixwMZXlkl2sbIbOfviq"
+        ],
+        "release_date": "1962-01-01"
+    },
+    {
+        "song": "Pressure Drop",
+        "song_id": "7cfILJJHW9ZSkbM2ywLhiN",
+        "album": "Reggae Greats - Toots & The Maytals",
+        "artists": [
+            "Toots & The Maytals"
+        ],
+        "artists_id": [
+            "6ZFv3wQwwWPiVDWhv0mjQK"
+        ],
+        "release_date": "1984-01-01"
+    },
+    {
+        "song": "Karma Police",
+        "song_id": "63OQupATfueTdZMWTxW03A",
+        "album": "OK Computer",
+        "artists": [
+            "Radiohead"
+        ],
+        "artists_id": [
+            "4Z8W4fKeB5YxbusRsdQVPb"
+        ],
+        "release_date": "1997-05-28"
+    },
+    {
+        "song": "Spring Day",
+        "song_id": "2j1fFjWHCI9KJSwcuYAOyF",
+        "album": "You Never Walk Alone",
+        "artists": [
+            "BTS"
+        ],
+        "artists_id": [
+            "3Nrfpe0tUJi4K4DXYWgMUX"
+        ],
+        "release_date": "2017-02-13"
+    },
+    {
+        "song": "Grindin'",
+        "song_id": "3XrvEifl0hIzgBGUa5jBLS",
+        "album": "Lord Willin'",
+        "artists": [
+            "Clipse"
+        ],
+        "artists_id": [
+            "2J257euzcjnDLipsyJH3F2"
+        ],
+        "release_date": "2002-04-01"
+    },
+    {
+        "song": "Never Tear Us Apart",
+        "song_id": "1qQSRy9DjrGh3jtsSCU6B1",
+        "album": "Kick",
+        "artists": [
+            "INXS"
+        ],
+        "artists_id": [
+            "1eClJfHLoDI4rZe5HxzBFv"
+        ],
+        "release_date": "1987"
+    },
+    {
+        "song": "Georgia on My Mind - Original Master Recording",
+        "song_id": "47mA6f44zxLtdATOoY7GjN",
+        "album": "Georgia on My Mind (Original Master Recording)",
+        "artists": [
+            "Ray Charles"
+        ],
+        "artists_id": [
+            "1eYhYunlNJlDoQhtYBvPsi"
+        ],
+        "release_date": "1960-09-01"
+    },
+    {
+        "song": "Suzanne",
+        "song_id": "2L93TdW2GMue1H2zlkt30F",
+        "album": "Songs Of Leonard Cohen",
+        "artists": [
+            "Leonard Cohen"
+        ],
+        "artists_id": [
+            "5l8VQNuIg0turYE1VtM9zV"
+        ],
+        "release_date": "1967-12-27"
+    },
+    {
+        "song": "Say My Name",
+        "song_id": "7H6ev70Weq6DdpZyyTmUXk",
+        "album": "The Writing's On The Wall",
+        "artists": [
+            "Destiny's Child"
+        ],
+        "artists_id": [
+            "1Y8cdNmUJH7yBTd9yOvr5i"
+        ],
+        "release_date": "1999-07-27"
+    },
+    {
+        "song": "Dancing Queen",
+        "song_id": "4NtUY5IGzHCaqfZemmAu56",
+        "album": "Arrival",
+        "artists": [
+            "ABBA"
+        ],
+        "artists_id": [
+            "0LcJLqbBmaGUft1e9Mm8HV"
+        ],
+        "release_date": "1976"
+    },
+    {
+        "song": "You Shook Me All Night Long",
+        "song_id": "2SiXAy7TuUkycRVbbWDEpo",
+        "album": "Back In Black",
+        "artists": [
+            "AC/DC"
+        ],
+        "artists_id": [
+            "711MCceyCBcFnzjGY4Q7Un"
+        ],
+        "release_date": "1980-07-25"
+    },
+    {
+        "song": "That's the Joint",
+        "song_id": "1sby5Tqlj9BjJKBl27e7Ie",
+        "album": "The Sugar Hill Records Story",
+        "artists": [
+            "Funky 4 + 1"
+        ],
+        "artists_id": [
+            "6Jpc1m4U7kxHlzn8hkB85C"
+        ],
+        "release_date": "2009-07-14"
+    },
+    {
+        "song": "Atlantic City",
+        "song_id": "1Vp8U39YNsDfd6yVuaUq12",
+        "album": "Nebraska",
+        "artists": [
+            "Bruce Springsteen"
+        ],
+        "artists_id": [
+            "3eqjTLE0HfPfh78zjh6TqT"
+        ],
+        "release_date": "1982-09-30"
+    },
+    {
+        "song": "Yeah! (feat. Lil Jon & Ludacris)",
+        "song_id": "5rb9QrpfcKFHM1EUbSIurX",
+        "album": "Confessions (Expanded Edition)",
+        "artists": [
+            "USHER",
+            "Lil Jon",
+            "Ludacris"
+        ],
+        "artists_id": [
+            "23zg3TcAtWQy7J6upgbUnj",
+            "7sfl4Xt5KmfyDs2T3SVSMK",
+            "3ipn9JLAPI5GUEo4y4jcoi"
+        ],
+        "release_date": "2004-03-23"
+    },
+    {
+        "song": "In The Air Tonight - 2015 Remastered",
+        "song_id": "18AXbzPzBS8Y3AkgSxzJPb",
+        "album": "Face Value (Deluxe Editon)",
+        "artists": [
+            "Phil Collins"
+        ],
+        "artists_id": [
+            "4lxfqrEsLX6N1N4OCSkILp"
+        ],
+        "release_date": "1981-01-01"
+    },
+    {
+        "song": "Can I Kick It?",
+        "song_id": "3Ti0GdlrotgwsAVBBugv0I",
+        "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "artists": [
+            "A Tribe Called Quest"
+        ],
+        "artists_id": [
+            "09hVIj6vWgoCDtT03h8ZCa"
+        ],
+        "release_date": "1990-04-17"
+    },
+    {
+        "song": "School's Out",
+        "song_id": "5Z8EDau8uNcP1E8JvmfkZe",
+        "album": "School's Out",
+        "artists": [
+            "Alice Cooper"
+        ],
+        "artists_id": [
+            "3EhbVgyfGd7HkpsagwL9GS"
+        ],
+        "release_date": "1972"
+    },
+    {
+        "song": "Sweet Jane - Full Length Version; 2015 Remaster",
+        "song_id": "3cw3Z7mS55gd3NUjh4k0bL",
+        "album": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "artists": [
+            "The Velvet Underground"
+        ],
+        "artists_id": [
+            "1nJvji2KIlWSseXRSlNYsC"
+        ],
+        "release_date": "1970"
+    },
+    {
+        "song": "Won't Get Fooled Again - Original Album Version",
+        "song_id": "0cJPLFrlV7TTCyPLupHzcH",
+        "album": "Who's Next (Deluxe Edition)",
+        "artists": [
+            "The Who"
+        ],
+        "artists_id": [
+            "67ea9eGLXYMsO2eYQRui3w"
+        ],
+        "release_date": "1971-08-14"
+    },
+    {
+        "song": "Rebel Girl",
+        "song_id": "0XyjtybwqSdqMAFfBEkmZf",
+        "album": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "artists": [
+            "Bikini Kill"
+        ],
+        "artists_id": [
+            "0gvHPdYxlU94W7V5MSIlFe"
+        ],
+        "release_date": "2015-10-13"
+    },
+    {
+        "song": "Wouldn't It Be Nice",
+        "song_id": "2Gy7qnDwt8Z3MNxqat4CsK",
+        "album": "Pet Sounds (Original Mono & Stereo Mix)",
+        "artists": [
+            "The Beach Boys"
+        ],
+        "artists_id": [
+            "3oDbviiivRWhXwIE8hxkVV"
+        ],
+        "release_date": "1966-06-16"
+    },
+    {
+        "song": "Jungleland",
+        "song_id": "3R2q3FCnNIw2XhuEbYtYk6",
+        "album": "Born To Run",
+        "artists": [
+            "Bruce Springsteen"
+        ],
+        "artists_id": [
+            "3eqjTLE0HfPfh78zjh6TqT"
+        ],
+        "release_date": "1975-08-25"
+    },
+    {
+        "song": "I Put a Spell On You",
+        "song_id": "3sLhMSePzxSrmxluIqeoAZ",
+        "album": "At Home with Screamin' Jay Hawkins",
+        "artists": [
+            "Screamin' Jay Hawkins"
+        ],
+        "artists_id": [
+            "3VBpsrUi2vV7Uj87ONHu7Z"
+        ],
+        "release_date": "1958"
+    },
+    {
+        "song": "Rock Lobster",
+        "song_id": "0rme3FLbw5o1KLXpJzivjS",
+        "album": "B-52's",
+        "artists": [
+            "The B-52's"
+        ],
+        "artists_id": [
+            "3gdbcIdNypBsYNu3iiCjtN"
+        ],
+        "release_date": "1979-01-01"
+    },
+    {
+        "song": "Night Moves",
+        "song_id": "6UBjSnyP1O5W5ndJoO9vUk",
+        "album": "Night Moves",
+        "artists": [
+            "Bob Seger"
+        ],
+        "artists_id": [
+            "485uL27bPomh29R4JmQehQ"
+        ],
+        "release_date": "1976-10-22"
+    },
+    {
+        "song": "Wish You Were Here",
+        "song_id": "6mFkJmJqdDVQ1REhVfGgd1",
+        "album": "Wish You Were Here",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "artists_id": [
+            "0k17h0D3J5VfsdmQ1iZtE9"
+        ],
+        "release_date": "1975-09-12"
+    },
+    {
+        "song": "No Scrubs",
+        "song_id": "1KGi9sZVMeszgZOWivFpxs",
+        "album": "Fanmail",
+        "artists": [
+            "TLC"
+        ],
+        "artists_id": [
+            "0TImkz4nPqjegtVSMZnMRq"
+        ],
+        "release_date": "1999-02-23"
+    },
+    {
+        "song": "Trans-Europe Express - 2009 Remaster",
+        "song_id": "3UjH6apk0ogZeIqhHbjrRU",
+        "album": "Trans-Europe Express (2009 Remaster)",
+        "artists": [
+            "Kraftwerk"
+        ],
+        "artists_id": [
+            "0dmPX6ovclgOy8WWJaFEUU"
+        ],
+        "release_date": "1977"
+    },
+    {
+        "song": "Every Breath You Take - Remastered 2003",
+        "song_id": "5C0LFQARavkPpn7JgA4sLk",
+        "album": "Synchronicity (Remastered)",
+        "artists": [
+            "The Police"
+        ],
+        "artists_id": [
+            "5NGO30tJxFlKixkPSgXcFE"
+        ],
+        "release_date": "1983-06-01"
+    },
+    {
+        "song": "Chain of Fools",
+        "song_id": "2oZmMp5M6L0Rh7G84Um2tF",
+        "album": "Lady Soul (With Bonus Selections)",
+        "artists": [
+            "Aretha Franklin"
+        ],
+        "artists_id": [
+            "7nwUJBm0HE4ZxD3f5cy5ok"
+        ],
+        "release_date": "1968-01-22"
+    },
+    {
+        "song": "Crazy",
+        "song_id": "2N5zMZX7YeL1tico8oQxa9",
+        "album": "St. Elsewhere",
+        "artists": [
+            "Gnarls Barkley"
+        ],
+        "artists_id": [
+            "5SbkVQYYzlw1kte75QIabH"
+        ],
+        "release_date": "2006-05-02"
+    },
+    {
+        "song": "Divorce Song - 2018 Remaster",
+        "song_id": "2vTMeiPiusCP04FNUQqDr5",
+        "album": "Exile In Guyville (2018 Remaster)",
+        "artists": [
+            "Liz Phair"
+        ],
+        "artists_id": [
+            "2LXeJdQVcFkhkWydphLI74"
+        ],
+        "release_date": "1993-06-22"
+    },
+    {
+        "song": "Ain't No Sunshine",
+        "song_id": "1k1Bqnv2R0uJXQN4u6LKYt",
+        "album": "Just As I Am",
+        "artists": [
+            "Bill Withers"
+        ],
+        "artists_id": [
+            "1ThoqLcyIYvZn7iWbj8fsj"
+        ],
+        "release_date": "1971-05-01"
+    },
+    {
+        "song": "Light My Fire",
+        "song_id": "5uvosCdMlFdTXhoazkTI5R",
+        "album": "The Doors",
+        "artists": [
+            "The Doors"
+        ],
+        "artists_id": [
+            "22WZ7M8sxp5THdruNY3gXt"
+        ],
+        "release_date": "1967-01-04"
+    },
+    {
+        "song": "Hotel California - 2013 Remaster",
+        "song_id": "40riOy7x9W7GXjyGp4pjAv",
+        "album": "Hotel California (2013 Remaster)",
+        "artists": [
+            "Eagles"
+        ],
+        "artists_id": [
+            "0ECwFtbIWEVNwjlrfc6xoL"
+        ],
+        "release_date": "1976-12-08"
+    },
+    {
+        "song": "Walk On By",
+        "song_id": "1jwKdqb7OindD204ocIryP",
+        "album": "Hot Buttered Soul",
+        "artists": [
+            "Isaac Hayes"
+        ],
+        "artists_id": [
+            "3IKV7o6WPphDB7cCWXaG3E"
+        ],
+        "release_date": "1969-06"
+    },
+    {
+        "song": "The Tears Of A Clown",
+        "song_id": "4Dq749x2QP6OXTURJ9GGY8",
+        "album": "Make It Happen",
+        "artists": [
+            "Smokey Robinson & The Miracles"
+        ],
+        "artists_id": [
+            "6TKOZZDd5uV5KnyC5G4MUt"
+        ],
+        "release_date": "1967-08-29"
+    },
+    {
+        "song": "I Wanna Be Your Dog",
+        "song_id": "672N8DGGTOLCOgWe0koX5g",
+        "album": "The Stooges",
+        "artists": [
+            "The Stooges"
+        ],
+        "artists_id": [
+            "4BFMTELQyWJU1SwqcXMBm3"
+        ],
+        "release_date": "1969-08-05"
+    },
+    {
+        "song": "A Love Supreme Pt. I - Acknowledgement - Live In Juan-les-Pins, France/1965",
+        "song_id": "7tyNY0pCKMD2JGIkQsUkHU",
+        "album": "A Love Supreme (Deluxe Edition)",
+        "artists": [
+            "John Coltrane"
+        ],
+        "artists_id": [
+            "2hGh5VOeeqimQFxqXvfCUf"
+        ],
+        "release_date": "1965-02"
+    },
+    {
+        "song": "Leader Of The Pack",
+        "song_id": "6wzLLGFlWQ5jqTL13MU069",
+        "album": "Leader Of The Pack",
+        "artists": [
+            "The Shangri-Las"
+        ],
+        "artists_id": [
+            "1WvziZcLLYLoMMdmQx7qcN"
+        ],
+        "release_date": "1998-01-01"
+    },
+    {
+        "song": "Visions of Johanna",
+        "song_id": "2rslQV48gNv3r9pPrQFPW1",
+        "album": "Blonde On Blonde",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "artists_id": [
+            "74ASZWbe4lXaubB36ztrGX"
+        ],
+        "release_date": "1966-06-20"
+    },
+    {
+        "song": "Hound Dog",
+        "song_id": "5Oc0vLGWdEWeCqIU8zyELt",
+        "album": "Ball n' Chain",
+        "artists": [
+            "Big Mama Thornton"
+        ],
+        "artists_id": [
+            "6bR0cgMtkCVpm0I5yrDNzO"
+        ],
+        "release_date": "1989-01-01"
+    },
+    {
+        "song": "Everybody Wants To Rule The World",
+        "song_id": "4RvWPyQ5RL0ao9LPZeSouE",
+        "album": "Songs From The Big Chair (Super Deluxe Edition)",
+        "artists": [
+            "Tears For Fears"
+        ],
+        "artists_id": [
+            "4bthk9UfsYUYdcFyqxmSUU"
+        ],
+        "release_date": "1985-02-25"
+    },
+    {
+        "song": "Blank Space",
+        "song_id": "1p80LdxRV74UKvL8gnD7ky",
+        "album": "1989",
+        "artists": [
+            "Taylor Swift"
+        ],
+        "artists_id": [
+            "06HL4z0CvFAxyc27GXpf02"
+        ],
+        "release_date": "2014-10-27"
+    },
+    {
+        "song": "California Love - Original Version",
+        "song_id": "3djNBlI7xOggg7pnsOLaNm",
+        "album": "The Best of 2Pac",
+        "artists": [
+            "2Pac",
+            "Roger",
+            "Dr. Dre"
+        ],
+        "artists_id": [
+            "1ZwdS5xdxEREPySFridCfh",
+            "3GMoVpWJy4smKuxFuFTwXC",
+            "6DPYiyq5kWVQS4RGwxzPC7"
+        ],
+        "release_date": "2007-12-03"
+    },
+    {
+        "song": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+        "song_id": "7gozgbG5EBTukCFWToTRA5",
+        "album": "The Joshua Tree (Deluxe Edition Remastered)",
+        "artists": [
+            "U2"
+        ],
+        "artists_id": [
+            "51Blml2LZPmy7TTiAg47vQ"
+        ],
+        "release_date": "1987-03-10"
+    },
+    {
+        "song": "After the Goldrush",
+        "song_id": "3u7eQmFOUDATeKMPUjDpGs",
+        "album": "The Best of The King's Singers",
+        "artists": [
+            "Neil Young",
+            "Peter Knight",
+            "The King's Singers"
+        ],
+        "artists_id": [
+            "6v8FB84lnmJs434UJf2Mrm",
+            "6USAIDgcDSYPE4cFvHibpX",
+            "5lR7yDVN4z9kahOiUSlMhe"
+        ],
+        "release_date": "2012-09-24"
+    },
+    {
+        "song": "All I Have to Do Is Dream",
+        "song_id": "7dblNGnRXEBrVJunazs2U5",
+        "album": "The Very Best of The Everly Brothers",
+        "artists": [
+            "The Everly Brothers"
+        ],
+        "artists_id": [
+            "4ACplpEqD6JIVgKrafauzs"
+        ],
+        "release_date": "1964-08-01"
+    },
+    {
+        "song": "Scenes from an Italian Restaurant",
+        "song_id": "3utq2FgD1pkmIoaWfjXWAU",
+        "album": "The Stranger (Legacy Edition)",
+        "artists": [
+            "Billy Joel"
+        ],
+        "artists_id": [
+            "6zFYqv1mOsgBRQbae3JJ9e"
+        ],
+        "release_date": "1977"
+    },
+    {
+        "song": "Lust For Life",
+        "song_id": "21YxK0klhpfLW8budkJaMF",
+        "album": "Lust For Life",
+        "artists": [
+            "Iggy Pop"
+        ],
+        "artists_id": [
+            "33EUXrFKGjpUSGacqEHhU4"
+        ],
+        "release_date": "1977-08-29"
+    },
+    {
+        "song": "Portions for Foxes",
+        "song_id": "4yY8JqTOQyi7K4O1QcQtBG",
+        "album": "More Adventurous (U.S. Release)",
+        "artists": [
+            "Rilo Kiley"
+        ],
+        "artists_id": [
+            "2cevwbv7ISD92VMNLYLHZA"
+        ],
+        "release_date": "2004-07-27"
+    },
+    {
+        "song": "Real Love",
+        "song_id": "3XG801WWhqC753dekEBkMt",
+        "album": "What's The 411?",
+        "artists": [
+            "Mary J. Blige"
+        ],
+        "artists_id": [
+            "1XkoF8ryArs86LZvFOkbyr"
+        ],
+        "release_date": "1992-01-01"
+    },
+    {
+        "song": "Under the Bridge",
+        "song_id": "3d9DChrdc6BOeFsbrZ3Is0",
+        "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "artists": [
+            "Red Hot Chili Peppers"
+        ],
+        "artists_id": [
+            "0L8ExT028jH3ddEcZwqJJ5"
+        ],
+        "release_date": "1991-09-24"
+    },
+    {
+        "song": "Safaera",
+        "song_id": "2DEZmgHKAvm41k4J3R2E9Y",
+        "album": "YHLQMDLG",
+        "artists": [
+            "Bad Bunny",
+            "Jowell & Randy",
+            "\u00d1engo Flow"
+        ],
+        "artists_id": [
+            "4q3ewBCX7sLwd24euuV69X",
+            "4IMAo2UQchVFyPH24PAjUs",
+            "12vb80Km0Ew53ABfJOepVz"
+        ],
+        "release_date": "2020-02-29"
+    },
+    {
+        "song": "Big Poppa - 2007 Remaster",
+        "song_id": "63BcfK6YAzJYeISaTPr6IO",
+        "album": "Greatest Hits",
+        "artists": [
+            "The Notorious B.I.G."
+        ],
+        "artists_id": [
+            "5me0Irg2ANcsgc93uaYrpb"
+        ],
+        "release_date": "2007-03-02"
+    },
+    {
+        "song": "Please Mr. Postman - Single Version / Mono",
+        "song_id": "6jX5mso4x00c1EiNMrTU9U",
+        "album": "Please Mr. Postman",
+        "artists": [
+            "The Marvelettes"
+        ],
+        "artists_id": [
+            "0MponVSpW81oLvJZ53vYZH"
+        ],
+        "release_date": "1961"
+    },
+    {
+        "song": "Umbrella",
+        "song_id": "49FYlytm3dAAraYgpoJZux",
+        "album": "Good Girl Gone Bad: Reloaded",
+        "artists": [
+            "Rihanna",
+            "JAY-Z"
+        ],
+        "artists_id": [
+            "5pKCCKE2ajJHZ9KAiaK11H",
+            "3nFkdlSjzX9mRTtwJOzDYB"
+        ],
+        "release_date": "2008-06-02"
+    },
+    {
+        "song": "Papa Was A Rollin' Stone - Single Version",
+        "song_id": "7MiLmLbwNoyf47xQ4TCVYp",
+        "album": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "artists": [
+            "The Temptations"
+        ],
+        "artists_id": [
+            "3RwQ26hR2tJtA8F9p2n7jG"
+        ],
+        "release_date": "2000-01-11"
+    },
+    {
+        "song": "Ripple - 2020 Remaster",
+        "song_id": "4aQ8mFkZU6dmHaZOOKdscc",
+        "album": "American Beauty (50th Anniversary Deluxe Edition)",
+        "artists": [
+            "Grateful Dead"
+        ],
+        "artists_id": [
+            "4TMHGUX5WI7OOm53PqSDAT"
+        ],
+        "release_date": "2020-10-30"
+    },
+    {
+        "song": "Move Your Body",
+        "song_id": "3YXIVMQLRRq2K7kxC7UYx6",
+        "album": "Move Your Body",
+        "artists": [
+            "Marshall Jefferson",
+            "Solardo"
+        ],
+        "artists_id": [
+            "2Di8r9df6xjyj6CVOqbGVz",
+            "0oO1IaDOBSeI96HbnCa5pZ"
+        ],
+        "release_date": "2019-10-18"
+    },
+    {
+        "song": "She's Gone",
+        "song_id": "5dFoWIiJ2814hRwMYDcFiU",
+        "album": "Abandoned Luncheonette",
+        "artists": [
+            "Daryl Hall & John Oates"
+        ],
+        "artists_id": [
+            "77tT1kLj6mCWtFNqiOmP9H"
+        ],
+        "release_date": "1973-01-01"
+    },
+    {
+        "song": "Believe",
+        "song_id": "2goLsvvODILDzeeiT4dAoR",
+        "album": "Believe",
+        "artists": [
+            "Cher"
+        ],
+        "artists_id": [
+            "72OaDtakiy6yFqkt4TsiFt"
+        ],
+        "release_date": "1998"
+    },
+    {
+        "song": "Paranoid - 2012 - Remaster",
+        "song_id": "1Y373MqadDRtclJNdnUXVc",
+        "album": "Paranoid (Remaster)",
+        "artists": [
+            "Black Sabbath"
+        ],
+        "artists_id": [
+            "5M52tdBnJaKSvOpJGz8mfZ"
+        ],
+        "release_date": "1970-09-18"
+    },
+    {
+        "song": "1999",
+        "song_id": "2H7PHVdQ3mXqEHXcvclTB0",
+        "album": "1999",
+        "artists": [
+            "Prince"
+        ],
+        "artists_id": [
+            "5a2EaR3hamoenG9rDuVn8j"
+        ],
+        "release_date": "1982-10-27"
+    },
+    {
+        "song": "(White Man) in Hammersmith Palais",
+        "song_id": "45xBWOa6oEAk1WlVyr5QAB",
+        "album": "Hits Back",
+        "artists": [
+            "The Clash"
+        ],
+        "artists_id": [
+            "3RGLhK1IP9jnYFH4BRFJBS"
+        ],
+        "release_date": "2013-08-26"
+    },
+    {
+        "song": "I'm a Believer - 2006 Remaster",
+        "song_id": "3G7tRC24Uh09Hmp1KZ7LQ2",
+        "album": "More of The Monkees (Deluxe Edition)",
+        "artists": [
+            "The Monkees"
+        ],
+        "artists_id": [
+            "320EPCSEezHt1rtbfwH6Ck"
+        ],
+        "release_date": "1967-01-09"
+    },
+    {
+        "song": "Promised Land",
+        "song_id": "2lDArps4owX3Q6rOIA4Osp",
+        "album": "St. Louis To Liverpool",
+        "artists": [
+            "Chuck Berry"
+        ],
+        "artists_id": [
+            "293zczrfYafIItmnmM3coR"
+        ],
+        "release_date": "1964-11-01"
+    },
+    {
+        "song": "What a Fool Believes",
+        "song_id": "2yBVeksU2EtrPJbTu4ZslK",
+        "album": "Minute by Minute",
+        "artists": [
+            "The Doobie Brothers"
+        ],
+        "artists_id": [
+            "39T6qqI0jDtSWWioX8eGJz"
+        ],
+        "release_date": "1978"
+    },
+    {
+        "song": "Iron Man",
+        "song_id": "4svkPL62HbvyFgf0nHFXAF",
+        "album": "The Ultimate Collection",
+        "artists": [
+            "Black Sabbath"
+        ],
+        "artists_id": [
+            "5M52tdBnJaKSvOpJGz8mfZ"
+        ],
+        "release_date": "2017-02-03"
+    },
+    {
+        "song": "It's Too Late",
+        "song_id": "12q3V8ShACq2PSWINMc2rC",
+        "album": "Tapestry",
+        "artists": [
+            "Carole King"
+        ],
+        "artists_id": [
+            "319yZVtYM9MBGqmSQnMyY6"
+        ],
+        "release_date": "1971"
+    },
+    {
+        "song": "Dynamite",
+        "song_id": "5QDLhrAOJJdNAmCTJ8xMyW",
+        "album": "BE",
+        "artists": [
+            "BTS"
+        ],
+        "artists_id": [
+            "3Nrfpe0tUJi4K4DXYWgMUX"
+        ],
+        "release_date": "2020-11-20"
+    },
+    {
+        "song": "Heartbreak Hotel",
+        "song_id": "6xNwKNYZcvgV3XTIwsgNio",
+        "album": "Elvis' Golden Records",
+        "artists": [
+            "Elvis Presley"
+        ],
+        "artists_id": [
+            "43ZHCT0cAZBISjO8DG9PnE"
+        ],
+        "release_date": "1958-03-21"
+    },
+    {
+        "song": "Virginia Plain",
+        "song_id": "5ZgNecJcN9SSopnmCTlpXs",
+        "album": "Roxy Music",
+        "artists": [
+            "Roxy Music"
+        ],
+        "artists_id": [
+            "3fhOTtm0LBJ3Ojn4hIljLo"
+        ],
+        "release_date": "1972-06-01"
+    },
+    {
+        "song": "Time of the Season",
+        "song_id": "6im4Ks6SWUqwTGp7Cft1e7",
+        "album": "Time of the Season",
+        "artists": [
+            "The Zombies"
+        ],
+        "artists_id": [
+            "2jgPkn6LuUazBoBk6vvjh5"
+        ],
+        "release_date": "1967-11-11"
+    },
+    {
+        "song": "Angel from Montgomery",
+        "song_id": "2qWKpYIleSvBT6aUMXoia5",
+        "album": "John Prine",
+        "artists": [
+            "John Prine"
+        ],
+        "artists_id": [
+            "0nJUwPwC9Ti4vvuJ0q3MfT"
+        ],
+        "release_date": "1971"
+    },
+    {
+        "song": "Ponta De Lan\u00e7a Africano",
+        "song_id": "3LcGqv91NIBQaUmnNbsKu8",
+        "album": "Africa Brasil",
+        "artists": [
+            "Jorge Ben Jor"
+        ],
+        "artists_id": [
+            "5JYtpnUKxAzXfHEYpOeeit"
+        ],
+        "release_date": "1976-01-01"
+    },
+    {
+        "song": "It Was A Good Day",
+        "song_id": "2qOm7ukLyHUXWyR4ZWLwxA",
+        "album": "The Predator",
+        "artists": [
+            "Ice Cube"
+        ],
+        "artists_id": [
+            "3Mcii5XWf6E0lrY3Uky4cA"
+        ],
+        "release_date": "1992-11-17"
+    },
+    {
+        "song": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+        "song_id": "1TfqLAPs4K3s2rJMoCokcS",
+        "album": "Sweet Dreams (Are Made Of This)",
+        "artists": [
+            "Eurythmics",
+            "Annie Lennox",
+            "Dave Stewart"
+        ],
+        "artists_id": [
+            "0NKDgy9j66h3DLnN8qu1bB",
+            "5MspMQqdVbdwP6ax3GXqum",
+            "7gcCQIlkkfbul5Mt0jBQkg"
+        ],
+        "release_date": "1983-01-04"
+    },
+    {
+        "song": "Rock with You - Single Version",
+        "song_id": "7oOOI85fVQvVnK5ynNMdW7",
+        "album": "Off the Wall",
+        "artists": [
+            "Michael Jackson"
+        ],
+        "artists_id": [
+            "3fMbdgg4jU18AjLCKBhRSm"
+        ],
+        "release_date": "1979-08-10"
+    },
+    {
+        "song": "Don't Leave Me This Way",
+        "song_id": "2rBBhFXtuMoGuwYTSDpAdF",
+        "album": "The Best Of",
+        "artists": [
+            "Thelma Houston"
+        ],
+        "artists_id": [
+            "3sgUnR8TF35euWEV07RPyO"
+        ],
+        "release_date": "1998-01-01"
+    },
+    {
+        "song": "Surrender",
+        "song_id": "2ccUQnjjNWT0rsNnsBpsCA",
+        "album": "Heaven Tonight",
+        "artists": [
+            "Cheap Trick"
+        ],
+        "artists_id": [
+            "1LB8qB5BPb3MHQrfkvifXU"
+        ],
+        "release_date": "1978-04"
+    },
+    {
+        "song": "Because the Night",
+        "song_id": "0lIoY4ZQsdn5QzhraM9o9u",
+        "album": "Easter",
+        "artists": [
+            "Patti Smith"
+        ],
+        "artists_id": [
+            "0vYkHhJ48Bs3jWcvZXvOrP"
+        ],
+        "release_date": "1978"
+    },
+    {
+        "song": "Killing Me Softly With His Song",
+        "song_id": "0Q0IVlqMV64kNLlwjPj0Hl",
+        "album": "The Score (Expanded Edition)",
+        "artists": [
+            "Fugees",
+            "Ms. Lauryn Hill"
+        ],
+        "artists_id": [
+            "2WKdxPFRD7IqZvlIAvhMgY",
+            "2Mu5NfyYm8n5iTomuKAEHl"
+        ],
+        "release_date": "1996-02-13"
+    },
+    {
+        "song": "Little Red Corvette - Single Version",
+        "song_id": "6X4JeTWCuKEzKOEHXDtyBo",
+        "album": "4Ever",
+        "artists": [
+            "Prince"
+        ],
+        "artists_id": [
+            "5a2EaR3hamoenG9rDuVn8j"
+        ],
+        "release_date": "2016-11-22"
+    },
+    {
+        "song": "The Harder They Come",
+        "song_id": "13XMn3vVhwm12NOCpkB380",
+        "album": "Ultimate Collection: Jimmy Cliff",
+        "artists": [
+            "Jimmy Cliff"
+        ],
+        "artists_id": [
+            "3rJ3m1tM6vUgiWLjfV8sRf"
+        ],
+        "release_date": "1999-01-01"
+    },
+    {
+        "song": "Merry Go 'Round",
+        "song_id": "5UDqWOgDdixYMAgAyNbpgh",
+        "album": "Same Trailer Different Park",
+        "artists": [
+            "Kacey Musgraves"
+        ],
+        "artists_id": [
+            "70kkdajctXSbqSMJbQO424"
+        ],
+        "release_date": "2013-01-01"
+    },
+    {
+        "song": "Could You Be Loved",
+        "song_id": "5O4erNlJ74PIF6kGol1ZrC",
+        "album": "Uprising",
+        "artists": [
+            "Bob Marley & The Wailers"
+        ],
+        "artists_id": [
+            "2QsynagSdAqZj3U9HgDzjD"
+        ],
+        "release_date": "1980-06-10"
+    },
+    {
+        "song": "Box of Rain - 2013 Remaster",
+        "song_id": "7x2xjJV3YAPeLQJ7u3Kjet",
+        "album": "American Beauty (2013 Remaster)",
+        "artists": [
+            "Grateful Dead"
+        ],
+        "artists_id": [
+            "4TMHGUX5WI7OOm53PqSDAT"
+        ],
+        "release_date": "1970-06-01"
+    },
+    {
+        "song": "God Save the Queen",
+        "song_id": "6ui6l3ZNvlrGQZArwo8195",
+        "album": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "artists": [
+            "Sex Pistols"
+        ],
+        "artists_id": [
+            "1u7kkVrr14iBvrpYnZILJR"
+        ],
+        "release_date": "1977-10-27"
+    },
+    {
+        "song": "Da Doo Ron Ron (When He Walked Me Home)",
+        "song_id": "0fonScmHUzC0MglSLn9saA",
+        "album": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "artists": [
+            "The Crystals"
+        ],
+        "artists_id": [
+            "7rewR1TVjhisjI6gauUamf"
+        ],
+        "release_date": "2011-02-22"
+    },
+    {
+        "song": "Thinkin Bout You",
+        "song_id": "7DfFc7a6Rwfi3YQMRbDMau",
+        "album": "channel ORANGE",
+        "artists": [
+            "Frank Ocean"
+        ],
+        "artists_id": [
+            "2h93pZq0e7k5yf4dywlkpM"
+        ],
+        "release_date": "2012-07-10"
+    },
+    {
+        "song": "Black Hole Sun",
+        "song_id": "2EoOZnxNgtmZaD8uUmz2nD",
+        "album": "Superunknown (Deluxe Edition)",
+        "artists": [
+            "Soundgarden"
+        ],
+        "artists_id": [
+            "5xUf6j4upBrXZPg6AI4MRK"
+        ],
+        "release_date": "1994-03-09"
+    },
+    {
+        "song": "Just What I Needed",
+        "song_id": "4alHo6RGd0D3OUbTPExTHN",
+        "album": "The Cars",
+        "artists": [
+            "The Cars"
+        ],
+        "artists_id": [
+            "6DCIj8jNaNpBz8e5oKFPtp"
+        ],
+        "release_date": "1978-06-06"
+    },
+    {
+        "song": "Peggy Sue",
+        "song_id": "2OARIMw1hpehr86Iwmv04c",
+        "album": "Buddy Holly",
+        "artists": [
+            "Buddy Holly",
+            "The Crickets"
+        ],
+        "artists_id": [
+            "3wYyutjgII8LJVVOLrGI0D",
+            "4r7JUeiYy24L7BuzCq9EjR"
+        ],
+        "release_date": "1958"
+    },
+    {
+        "song": "Bennie And The Jets - Remastered 2014",
+        "song_id": "5Wj1rJnCLpMHdLaxsFtJLs",
+        "album": "Goodbye Yellow Brick Road - Remastered",
+        "artists": [
+            "Elton John"
+        ],
+        "artists_id": [
+            "3PhoLpVuITZKcymswpck5b"
+        ],
+        "release_date": "1973-10-05"
+    },
+    {
+        "song": "I Can't Make You Love Me",
+        "song_id": "69uJi5QsBtqlYkGURTBli8",
+        "album": "Luck Of The Draw",
+        "artists": [
+            "Bonnie Raitt"
+        ],
+        "artists_id": [
+            "4KDyYWR7IpxZ7xrdYbKrqY"
+        ],
+        "release_date": "1991-01-01"
+    },
+    {
+        "song": "Hotline Bling",
+        "song_id": "0wwPcA6wtMf6HUMpIRdeP7",
+        "album": "Views",
+        "artists": [
+            "Drake"
+        ],
+        "artists_id": [
+            "3TVXtAsR1Inumwj472S9r4"
+        ],
+        "release_date": "2016-05-06"
+    },
+    {
+        "song": "Be Thankful for What You Got",
+        "song_id": "3PrqRBsMdy8eZkbDqDb32p",
+        "album": "70's Pop Gems",
+        "artists": [
+            "William DeVaughn"
+        ],
+        "artists_id": [
+            "1l51Sc9HBh8fLXUDEjFhxU"
+        ],
+        "release_date": "2008-08-05"
+    },
+    {
+        "song": "Up on the Roof",
+        "song_id": "2806jBTs12WAfzFImSxJzL",
+        "album": "Up on the Roof: The Best of the Drifters",
+        "artists": [
+            "The Drifters"
+        ],
+        "artists_id": [
+            "1FqqOl9itIUpXr4jZPIVoT"
+        ],
+        "release_date": "2005-02-08"
+    },
+    {
+        "song": "Mama Tried",
+        "song_id": "6h3YJ05BovN1Pgk145J3r9",
+        "album": "Mama Tried/ Pride In What I Am",
+        "artists": [
+            "Merle Haggard"
+        ],
+        "artists_id": [
+            "2ptmyXoL7poH6Zq62h1QT9"
+        ],
+        "release_date": "2006-01-01"
+    },
+    {
+        "song": "drivers license",
+        "song_id": "5wANPM4fQCJwkGd4rN57mH",
+        "album": "SOUR",
+        "artists": [
+            "Olivia Rodrigo"
+        ],
+        "artists_id": [
+            "1McMsnEElThX1knmY4oliG"
+        ],
+        "release_date": "2021-05-21"
+    },
+    {
+        "song": "Mr. Brightside",
+        "song_id": "003vvx7Niy0yvhvHt4a68B",
+        "album": "Hot Fuss",
+        "artists": [
+            "The Killers"
+        ],
+        "artists_id": [
+            "0C0XlULifJtAgn6ZNCW2eu"
+        ],
+        "release_date": "2004"
+    },
+    {
+        "song": "Untitled (How Does It Feel)",
+        "song_id": "4oPNN7syJYSjzDhRerF966",
+        "album": "Voodoo",
+        "artists": [
+            "D'Angelo"
+        ],
+        "artists_id": [
+            "336vr2M3Va0FjyvB55lJEd"
+        ],
+        "release_date": "2000-01-01"
+    },
+    {
+        "song": "Radiation Vibe",
+        "song_id": "3XApt3UvXtv8y9S6DrAxCL",
+        "album": "Fountains of Wayne",
+        "artists": [
+            "Fountains Of Wayne"
+        ],
+        "artists_id": [
+            "1pgtr4nhBQjp9oCUBPyYWh"
+        ],
+        "release_date": "1996"
+    },
+    {
+        "song": "Typical Girls",
+        "song_id": "395kSI564E2Rl1Nh5kGOxQ",
+        "album": "Cut (Deluxe Edition)",
+        "artists": [
+            "The Slits"
+        ],
+        "artists_id": [
+            "5O0RrEgz4NLCPLrDZiPggz"
+        ],
+        "release_date": "1979-09-07"
+    },
+    {
+        "song": "Paper Bag",
+        "song_id": "0IVkP59yJ9GFF6B7IrvrxA",
+        "album": "When The Pawn...",
+        "artists": [
+            "Fiona Apple"
+        ],
+        "artists_id": [
+            "3g2kUQ6tHLLbmkV7T4GPtL"
+        ],
+        "release_date": "1999-11-09"
+    },
+    {
+        "song": "Redbone",
+        "song_id": "0WtDGnWL2KrMCk0mI1Gpwz",
+        "album": "\"Awaken, My Love!\"",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "artists_id": [
+            "73sIBHcqh3Z3NyqHKZ7FOL"
+        ],
+        "release_date": "2016-12-02"
+    },
+    {
+        "song": "I Like It",
+        "song_id": "58q2HKrzhC3ozto2nDdN4z",
+        "album": "Invasion of Privacy",
+        "artists": [
+            "Cardi B",
+            "Bad Bunny",
+            "J Balvin"
+        ],
+        "artists_id": [
+            "4kYSro6naA4h99UJvo89HB",
+            "4q3ewBCX7sLwd24euuV69X",
+            "1vyhD5VmyZ7KMfW5gqLgo5"
+        ],
+        "release_date": "2018-04-06"
+    },
+    {
+        "song": "I'm Coming Out",
+        "song_id": "3SnGymj6ijE2iuUfWxLo1q",
+        "album": "Diana",
+        "artists": [
+            "Diana Ross"
+        ],
+        "artists_id": [
+            "3MdG05syQeRYPPcClLaUGl"
+        ],
+        "release_date": "1980-05-22"
+    },
+    {
+        "song": "Lola - 2014 Remastered Version",
+        "song_id": "6l0x5Z8kmjrorvcvM9ZIVH",
+        "album": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
+        "artists": [
+            "The Kinks"
+        ],
+        "artists_id": [
+            "1SQRv42e4PjEYfPhS0Tk9E"
+        ],
+        "release_date": "2014-10-20"
+    },
+    {
+        "song": "Personality Crisis",
+        "song_id": "4AwKXevZmsTNa3KZVj3rzl",
+        "album": "New York Dolls",
+        "artists": [
+            "New York Dolls"
+        ],
+        "artists_id": [
+            "0WhGV9lzljq2QKJ8ipw6jx"
+        ],
+        "release_date": "1973-01-01"
+    },
+    {
+        "song": "Party Up",
+        "song_id": "0LWkaEyQRkF0XAms8Bg1fC",
+        "album": "...And Then There Was X",
+        "artists": [
+            "DMX"
+        ],
+        "artists_id": [
+            "1HwM5zlC5qNWhJtM00yXzG"
+        ],
+        "release_date": "1999-12-21"
+    },
+    {
+        "song": "Brass in Pocket - 2006 Remaster",
+        "song_id": "1QaJWSCk3UMKLotnPCIHh1",
+        "album": "Pretenders",
+        "artists": [
+            "Pretenders"
+        ],
+        "artists_id": [
+            "0GByy3DcfbQwDvXGCWmzv9"
+        ],
+        "release_date": "1980-01-11"
+    },
+    {
+        "song": "Enter Sandman",
+        "song_id": "5BIMPccDwShpXq784RJlJp",
+        "album": "Metallica",
+        "artists": [
+            "Metallica"
+        ],
+        "artists_id": [
+            "2ye2Wgw4gimLv2eAKyk1NB"
+        ],
+        "release_date": "1991-08-12"
+    },
+    {
+        "song": "Springsteen",
+        "song_id": "05ZACkzW8YbRq3eFgIfSNB",
+        "album": "Chief",
+        "artists": [
+            "Eric Church"
+        ],
+        "artists_id": [
+            "2IvkS5MXK0vPGnwyJsrEyV"
+        ],
+        "release_date": "2011-01-01"
+    },
+    {
+        "song": "Fix You",
+        "song_id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "album": "X&Y",
+        "artists": [
+            "Coldplay"
+        ],
+        "artists_id": [
+            "4gzpq5DPGxSnKTe4SA8HAU"
+        ],
+        "release_date": "2005-06-07"
+    },
+    {
+        "song": "Say It Loud - I'm Black And I'm Proud",
+        "song_id": "1sYRkVKdT2ize1HSDCwbEF",
+        "album": "20 All-Time Greatest Hits!",
+        "artists": [
+            "James Brown"
+        ],
+        "artists_id": [
+            "7GaxyUddsPok8BuhxN6OUW"
+        ],
+        "release_date": "1991"
+    },
+    {
+        "song": "Grace",
+        "song_id": "64SIlhd3BaHCCMSfajXG7l",
+        "album": "Grace",
+        "artists": [
+            "Jeff Buckley"
+        ],
+        "artists_id": [
+            "3nnQpaTvKb5jCQabZefACI"
+        ],
+        "release_date": "1994"
+    },
+    {
+        "song": "Planet Rock",
+        "song_id": "3uy0jtkM8QYVTsBazkli1x",
+        "album": "Planet Rock",
+        "artists": [
+            "Afrika Bambaataa",
+            "The Soulsonic Force"
+        ],
+        "artists_id": [
+            "7cg61q8kK8jlFi8TKKw70p",
+            "4zdcKwAK7lkYxgER54yfcP"
+        ],
+        "release_date": "1982-05-01"
+    },
+    {
+        "song": "Alison",
+        "song_id": "1v98rfd0an913AzHvMNG8a",
+        "album": "My Aim Is True",
+        "artists": [
+            "Elvis Costello"
+        ],
+        "artists_id": [
+            "2BGRfQgtzikz1pzAD0kaEn"
+        ],
+        "release_date": "1977-07-22"
+    },
+    {
+        "song": "Bring The Noise",
+        "song_id": "6jg8Y7gArYgZeXUBPMre0V",
+        "album": "It Takes A Nation Of Millions To Hold Us Back",
+        "artists": [
+            "Public Enemy"
+        ],
+        "artists_id": [
+            "6Mo9PoU6svvhgEum7wh2Nd"
+        ],
+        "release_date": "1988-06-28"
+    },
+    {
+        "song": "Hungry Like the Wolf - 2009 Remaster",
+        "song_id": "39lSeqnyjZJejRuaREfyLL",
+        "album": "Rio (Collector's Edition)",
+        "artists": [
+            "Duran Duran"
+        ],
+        "artists_id": [
+            "0lZoBs4Pzo7R89JM9lxwoT"
+        ],
+        "release_date": "1982-05-10"
+    },
+    {
+        "song": "You Make Me Feel (Mighty Real)",
+        "song_id": "0RnCUYXa7jhgTXtiMXF2PQ",
+        "album": "Step II",
+        "artists": [
+            "Sylvester"
+        ],
+        "artists_id": [
+            "5TGTpu4g8siFOIctZuQO7y"
+        ],
+        "release_date": "1978-01-01"
+    },
+    {
+        "song": "Cruel Summer",
+        "song_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "album": "Lover",
+        "artists": [
+            "Taylor Swift"
+        ],
+        "artists_id": [
+            "06HL4z0CvFAxyc27GXpf02"
+        ],
+        "release_date": "2019-08-23"
+    }
+]

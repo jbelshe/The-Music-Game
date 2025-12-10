@@ -5,4 +5,5 @@ export interface Song {
     coverUrl: string;
     audioUrl: string;
     year: number;
+    spotifyId?: string;
 }

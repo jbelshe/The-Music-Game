@@ -1,45 +1,74 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { SONGS } from '../data/songs';
 import PixelatedImage from './PixelatedImage';
-import CustomPlayer from './CustomPlayer';
+import GridPlayer from './GridPlayer';
 import ArtistInput from './ArtistInput';
 import YearSelect from './YearSelect';
+import { getTrackDetails, SpotifyTrack } from '../lib/spotify';
+import { useSpotifyPlayerContext } from '../contexts/SpotifyPlayerContext';
 
-export default function SimultaneousGame() {
+interface SimultaneousGameProps {
+    token: string;
+}
+
+export default function SimultaneousGame({ token }: SimultaneousGameProps) {
+    const { play, currentTrackUri, position } = useSpotifyPlayerContext();
     const gameSongs = SONGS.slice(0, 4);
+    const [covers, setCovers] = useState<{ [key: string]: string }>({});
+    const [durations, setDurations] = useState<{ [key: string]: number }>({});
 
-    const [playingId, setPlayingId] = useState<string | null>(null);
+    // Track saved position (ms) for each track URI
+    const [savedPositions, setSavedPositions] = useState<Record<string, number>>({});
+
+    const handlePlayRequest = (uri: string) => {
+        // 1. If something is currently playing (and it's not the one we just clicked), save its position
+        if (currentTrackUri && currentTrackUri !== uri && position > 0) {
+            setSavedPositions(prev => ({
+                ...prev,
+                [currentTrackUri]: position
+            }));
+        }
+
+        // 2. Retrieve last known position for the requested URI (default 0)
+        const startPos = savedPositions[uri] || 0;
+
+        // 3. Play
+        play(uri, startPos);
+    };
+
+    useEffect(() => {
+        if (!token) return;
+        gameSongs.forEach(song => {
+            if (song.spotifyId) {
+                getTrackDetails(token, song.spotifyId).then((data: SpotifyTrack) => {
+                    const img = data.album.images[0]?.url;
+                    if (img) setCovers(prev => ({ ...prev, [song.id]: img }));
+                    if (data.duration_ms) setDurations(prev => ({ ...prev, [song.id]: data.duration_ms }));
+                }).catch(e => console.error(e));
+            }
+        });
+    }, [token]);
 
     const [guesses, setGuesses] = useState<{ [key: string]: { artist: string, year: number | '' } }>(
         Object.fromEntries(gameSongs.map(s => [s.id, { artist: '', year: '' }]))
     );
 
     const [submitted, setSubmitted] = useState(false);
-    const [errorIds, setErrorIds] = useState<string[]>([]); // Track empty artist fields
-
-    const handlePlayPause = (id: string, isPlaying: boolean) => {
-        if (isPlaying) {
-            setPlayingId(id);
-        } else if (playingId === id) {
-            setPlayingId(null);
-        }
-    };
+    const [errorIds, setErrorIds] = useState<string[]>([]);
 
     const handleInputChange = (id: string, field: 'artist' | 'year', value: any) => {
         setGuesses(prev => ({
             ...prev,
             [id]: { ...prev[id], [field]: value }
         }));
-        // Clear error if typing
         if (field === 'artist' && errorIds.includes(id)) {
             setErrorIds(prev => prev.filter(eid => eid !== id));
         }
     };
 
     const handleSubmit = () => {
-        // Validate: all artists must be filled?
         const newErrors: string[] = [];
         gameSongs.forEach(s => {
             if (!guesses[s.id].artist.trim()) {
@@ -54,7 +83,6 @@ export default function SimultaneousGame() {
         }
 
         setSubmitted(true);
-        setPlayingId(null);
     };
 
     const isCorrect = (song: typeof SONGS[0]) => {
@@ -87,7 +115,7 @@ export default function SimultaneousGame() {
                         const { artistOk, yearOk } = isCorrect(song);
                         return (
                             <div key={song.id} className="flex flex-col items-center gap-4 p-4 border border-green-200 rounded-xl bg-green-50 shadow-sm">
-                                <img src={song.coverUrl} className="w-32 h-32 rounded-lg object-cover" />
+                                <img src={covers[song.id] || song.coverUrl} className="w-32 h-32 rounded-lg object-cover" />
                                 <div className="text-center space-y-2">
                                     <div className={artistOk ? 'text-green-600 font-bold' : 'text-red-500 line-through'}>
                                         {guesses[song.id].artist}
@@ -114,14 +142,15 @@ export default function SimultaneousGame() {
                 {gameSongs.map((song) => (
                     <div key={song.id} className="flex flex-col items-center gap-6 p-6 border border-gray-100 rounded-2xl bg-white shadow-xl">
                         <div className="w-full aspect-square max-w-[250px] shadow-inner rounded-lg overflow-hidden bg-gray-50">
-                            <PixelatedImage src={song.coverUrl} pixelFactor={25} />
+                            <PixelatedImage src={covers[song.id] || song.coverUrl} pixelFactor={25} />
                         </div>
 
                         <div className="w-full flex justify-center">
-                            <CustomPlayer
-                                src={song.audioUrl}
-                                isPlaying={playingId === song.id}
-                                onPlayPause={(playing) => handlePlayPause(song.id, playing)}
+                            <GridPlayer
+                                trackUri={`spotify:track:${song.spotifyId}`}
+                                durationMs={durations[song.id]}
+                                onPlay={handlePlayRequest}
+                                savedPosition={savedPositions[`spotify:track:${song.spotifyId}`] || 0}
                             />
                         </div>
 
@@ -146,7 +175,7 @@ export default function SimultaneousGame() {
             <div className="pb-10">
                 <button
                     onClick={handleSubmit}
-                    className="px-10 py-4 bg-green-600 text-white text-lg font-bold rounded-full shadow-lg hover:bg-green-700 hover:scale-105 transition-all"
+                    className="px-10 py-4 bg-green-600 text-white text-lg font-bold rounded-full shadow-lg hover:green-700 hover:scale-105 transition-all"
                 >
                     Submit All
                 </button>
