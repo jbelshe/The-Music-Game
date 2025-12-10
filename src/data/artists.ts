@@ -1,0 +1,17 @@
+export const ARTISTS = [
+    'Rick Astley',
+    'Daft Punk',
+    'Michael Jackson',
+    'Queen',
+    'The Beatles',
+    'Led Zeppelin',
+    'Pink Floyd',
+    'Madonna',
+    'Prince',
+    'David Bowie',
+    'Beyoncé',
+    'Taylor Swift',
+    'Adele',
+    'Drake',
+    'The Weeknd',
+];

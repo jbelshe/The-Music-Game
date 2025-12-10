@@ -1,66 +1,53 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+'use client';
+
+import { useState } from 'react';
+import SequentialGame from '@/components/SequentialGame';
+import SimultaneousGame from '@/components/SimultaneousGame';
 
 export default function Home() {
+  const [activeTab, setActiveTab] = useState<'sequential' | 'simultaneous'>('sequential');
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+    <div className="min-h-screen flex flex-col py-10 px-4 gap-10 bg-white text-gray-900 font-sans">
+      <header className="text-center space-y-2">
+        <h1 className="text-5xl font-extrabold tracking-tight text-black">Pixel Tunes</h1>
+        <p className="text-gray-500 text-lg">Guess the artist from the pixelated cover and song.</p>
+      </header>
+
+      <nav className="flex justify-center gap-8 border-b border-gray-100 pb-1">
+        <button
+          className={`pb-2 text-lg font-medium transition-colors relative ${activeTab === 'sequential'
+              ? 'text-orange-600'
+              : 'text-gray-400 hover:text-gray-600'
+            }`}
+          onClick={() => setActiveTab('sequential')}
+        >
+          Sequential Mode
+          {activeTab === 'sequential' && (
+            <span className="absolute bottom-[-1px] left-0 w-full h-[3px] bg-orange-600 rounded-t-full" />
+          )}
+        </button>
+        <button
+          className={`pb-2 text-lg font-medium transition-colors relative ${activeTab === 'simultaneous'
+              ? 'text-green-600'
+              : 'text-gray-400 hover:text-gray-600'
+            }`}
+          onClick={() => setActiveTab('simultaneous')}
+        >
+          Simultaneous Mode
+          {activeTab === 'simultaneous' && (
+            <span className="absolute bottom-[-1px] left-0 w-full h-[3px] bg-green-600 rounded-t-full" />
+          )}
+        </button>
+      </nav>
+
+      <main className="flex-1 w-full max-w-7xl mx-auto">
+        {activeTab === 'sequential' ? <SequentialGame /> : <SimultaneousGame />}
       </main>
+
+      <footer className="text-center text-gray-400 text-sm py-8">
+        Built for the Music Game Challenge
+      </footer>
     </div>
   );
 }
